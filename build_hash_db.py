@@ -147,7 +147,7 @@ def add_rom_to_skip_list(files, rom):
 def save_rom_in_files(db_file: str, do_save: bool, files: Dict[str, HashData], rom: str, rom_description: HashData) -> None:
     if rom_description is not None:
         files[Path(rom).name] = rom_description
-        save_db_file(db_file, files)
+        if do_save: save_db_file(db_file, files)
 
 def save_db_file(db_file, files):
     with open(db_file, 'wt') as f:
