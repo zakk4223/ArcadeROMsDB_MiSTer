@@ -1,0 +1,28 @@
+name: Build Arcade Roms DB
+
+permissions: write-all
+
+on:
+  schedule:
+  - cron:  "*/20 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: fregante/setup-git-user@v2
+
+    - name: Fallback hash DB
+      run: ./build_hash_db.sh
+      env:
+        DB_FILE: "mamemergedfallback.json"
+        SOURCE: "mame-merged"
+        ONESHOT: "1"
+    - name: Build
+      run: python3 build_arcade_roms_db.py
+      env:
+        GIT_PUSH_BRANCH: db
+        DB_URL: https://raw.githubusercontent.com/BigDendy/ArcadeROMsDB_MiSTer/db/arcade_roms_db.json.zip

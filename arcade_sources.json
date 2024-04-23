@@ -1,0 +1,36 @@
+{
+	"mame": {
+		"0209": "https://archive.org/download/MAME209RomsOnlyMerged/",
+		"0216": "https://archive.org/download/MAME216RomsOnlyMerged/",
+		"0217": "https://archive.org/download/MAME217RomsOnlyMerged/MAME%200.217%20ROMs%20%28merged%29.zip/",
+		"0218": "https://archive.org/download/MAME218RomsOnlyMerged/MAME%200.218%20ROMs%20%28merged%29.zip/",
+		"0219": "https://archive.org/download/MAME219RomsOnlyMerged/MAME%200.219%20ROMs%20%28merged%29.zip/",
+		"0220": "https://archive.org/download/MAME220RomsOnlyMerged/",
+		"0221": "https://archive.org/download/MAME221RomsOnlyMerged/",
+		"0222": "https://archive.org/download/MAME222RomsOnlyMerged/",
+		"0223": "https://archive.org/download/MAME223RomsOnlyMerged/",
+		"0224": "https://archive.org/download/MAME224RomsOnlyMerged/",
+		"0228": "https://archive.org/download/MAME_0.228_ROMs_merged/MAME_0.228_ROMs_merged.zip/",
+		"fallback": "https://archive.org/download/mame-merged/",
+		"darksoft_neogeo": "https://archive.org/download/mister_neogeo/",
+		"arcade_offset": "https://archive.org/download/arcade_offset/"
+	},
+	"hbmame": {
+		"0217": "https://archive.org/download/hbmame0217/",
+		"0220": "https://archive.org/download/hbmame0220/",
+		"0224": "https://archive.org/download/hbmame0224roms/",
+		"0226": "https://archive.org/download/HBmame0.226-romsmerged/",
+		"0227": "https://archive.org/download/HBmame0.227-romsmerged/",
+		"0228": "https://archive.org/download/HBmame0.228-romsmerged/",
+		"0229": "https://archive.org/download/HBmame0.229-romsmerged/",
+		"0230": "https://archive.org/download/HBmame0.230-romsmerged/",
+		"0244": "https://archive.org/download/hbmame_0244_roms/"
+	},
+	"mra": {
+		"https://github.com/MiSTer-devel/Distribution_MiSTer/archive/refs/heads/main.zip": "Distribution_MiSTer-main/_Arcade/*",
+		"https://github.com/jotego/jtcores_mister/archive/refs/heads/main.zip": "jtcores_mister-main/_Arcade/*",
+		"https://github.com/theypsilon/Unofficial_Distribution_MiSTer/archive/refs/heads/main.zip": "Unofficial_Distribution_MiSTer-main/_Arcade/*",
+		"https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/archive/refs/heads/main.zip": "Distribution-MiSTerFPGA-develop/_Arcade/*",
+                "https://github.com/Toryalai1/Arcade_Offset/archive/refs/heads/main.zip": "Arcade_Offset-main/release/_Arcade Offset/*"
+	}
+}

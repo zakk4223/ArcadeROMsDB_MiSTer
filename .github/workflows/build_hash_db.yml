@@ -1,0 +1,202 @@
+name: Build Hash DB
+
+permissions: write-all
+
+on:
+  workflow_dispatch:
+    inputs:
+      source:
+        description: 'SOURCE'
+        required: true
+        default: ''
+      db_file:
+        description: 'DB_FILE'
+        required: true
+        default: ''
+
+jobs:
+  build1:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: fregante/setup-git-user@v2
+
+    - run: echo "${{ github.event.inputs.source }}"
+    - run: ./build_hash_db.sh
+      env:
+        SOURCE: ${{ github.event.inputs.source }}
+        DB_FILE: ${{ github.event.inputs.db_file }}
+        TIMEOUT_MINUTES: 300
+
+  build2:
+    needs: build1
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+    - run: sleep 20
+    - uses: actions/checkout@v2
+      with:
+        ref: refs/heads/main
+    - uses: fregante/setup-git-user@v2
+
+    - run: ./build_hash_db.sh
+      env:
+        SOURCE: ${{ github.event.inputs.source }}
+        DB_FILE: ${{ github.event.inputs.db_file }}
+        TIMEOUT_MINUTES: 300
+
+  build3:
+    needs: build2
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+    - run: sleep 20
+    - uses: actions/checkout@v2
+      with:
+        ref: refs/heads/main
+    - uses: fregante/setup-git-user@v2
+
+    - run: ./build_hash_db.sh
+      env:
+        SOURCE: ${{ github.event.inputs.source }}
+        DB_FILE: ${{ github.event.inputs.db_file }}
+        TIMEOUT_MINUTES: 300
+
+  build4:
+    needs: build3
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+    - run: sleep 20
+    - uses: actions/checkout@v2
+      with:
+        ref: refs/heads/main
+    - uses: fregante/setup-git-user@v2
+
+    - run: ./build_hash_db.sh
+      env:
+        SOURCE: ${{ github.event.inputs.source }}
+        DB_FILE: ${{ github.event.inputs.db_file }}
+        TIMEOUT_MINUTES: 300
+
+  build5:
+    needs: build4
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+    - run: sleep 20
+    - uses: actions/checkout@v2
+      with:
+        ref: refs/heads/main
+    - uses: fregante/setup-git-user@v2
+
+    - run: ./build_hash_db.sh
+      env:
+        SOURCE: ${{ github.event.inputs.source }}
+        DB_FILE: ${{ github.event.inputs.db_file }}
+        TIMEOUT_MINUTES: 300
+
+  build6:
+    needs: build5
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+    - run: sleep 20
+    - uses: actions/checkout@v2
+      with:
+        ref: refs/heads/main
+    - uses: fregante/setup-git-user@v2
+
+    - run: ./build_hash_db.sh
+      env:
+        SOURCE: ${{ github.event.inputs.source }}
+        DB_FILE: ${{ github.event.inputs.db_file }}
+        TIMEOUT_MINUTES: 300
+
+  build7:
+    needs: build6
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+    - run: sleep 20
+    - uses: actions/checkout@v2
+      with:
+        ref: refs/heads/main
+    - uses: fregante/setup-git-user@v2
+
+    - run: ./build_hash_db.sh
+      env:
+        SOURCE: ${{ github.event.inputs.source }}
+        DB_FILE: ${{ github.event.inputs.db_file }}
+        TIMEOUT_MINUTES: 300
+
+  build8:
+    needs: build7
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+    - run: sleep 20
+    - uses: actions/checkout@v2
+      with:
+        ref: refs/heads/main
+    - uses: fregante/setup-git-user@v2
+
+    - run: ./build_hash_db.sh
+      env:
+        SOURCE: ${{ github.event.inputs.source }}
+        DB_FILE: ${{ github.event.inputs.db_file }}
+        TIMEOUT_MINUTES: 300
+
+  build9:
+    needs: build8
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+    - run: sleep 20
+    - uses: actions/checkout@v2
+      with:
+        ref: refs/heads/main
+    - uses: fregante/setup-git-user@v2
+
+    - run: ./build_hash_db.sh
+      env:
+        SOURCE: ${{ github.event.inputs.source }}
+        DB_FILE: ${{ github.event.inputs.db_file }}
+        TIMEOUT_MINUTES: 300
+
+  build10:
+    needs: build9
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+    - run: sleep 20
+    - uses: actions/checkout@v2
+      with:
+        ref: refs/heads/main
+    - uses: fregante/setup-git-user@v2
+
+    - run: ./build_hash_db.sh
+      env:
+        SOURCE: ${{ github.event.inputs.source }}
+        DB_FILE: ${{ github.event.inputs.db_file }}
+        TIMEOUT_MINUTES: 300
