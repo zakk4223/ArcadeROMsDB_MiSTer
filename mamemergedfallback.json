@@ -51834,6 +51834,11 @@
         "md5": "4f3f7b7eb441a25b6e6f2b939df5a729",
         "size": 2175325
     },
+    "ramstar.zip": {
+        "fullpath": "mame-merged/ramstar.zip",
+        "md5": "a8b947bfeeeb3c75a93fec043bcf8dfe",
+        "size": 41640
+    },
     "rangrmsn.zip": {
         "fullpath": "mame-merged/rangrmsn.zip",
         "md5": "86031711d4e3ffabdcf5615068d439b7",
