@@ -9981,8 +9981,8 @@
     },
     "cmtetris.zip": {
         "fullpath": "mame-merged/cmtetris.zip",
-        "md5": "744d358313ae31d6ec6feffd0f47ae48",
-        "size": 229416
+        "md5": "d6db68bd8e40f38ac29fef6cb65335f8",
+        "size": 357269
     },
     "cmtonig.zip": {
         "fullpath": "mame-merged/cmtonig.zip",
@@ -28624,6 +28624,11 @@
         "md5": "74e5609f9dfe0bb15b8bce4e8119078d",
         "size": 522850
     },
+    "jumbogod.zip": {
+        "fullpath": "mame-merged/jumbogod.zip",
+        "md5": "a04a29c3d5a639e7ee1e42b2d32a008c",
+        "size": 701369
+    },
     "jumpbean.zip": {
         "fullpath": "mame-merged/jumpbean.zip",
         "md5": "9830f77446c784eef0608b72a4c323d6",
@@ -40463,6 +40468,11 @@
         "fullpath": "mame-merged/mnight.zip",
         "md5": "20bbcedcbad305561f4e6893ac6e93c9",
         "size": 169769
+    },
+    "mnrockman.zip": {
+        "fullpath": "mame-merged/mnrockman.zip",
+        "md5": "1bacd7b54da1061e640f3b2734eb74df",
+        "size": 1166848
     },
     "mntecrlo.zip": {
         "fullpath": "mame-merged/mntecrlo.zip",
@@ -52608,6 +52618,11 @@
         "fullpath": "mame-merged/rm380z.zip",
         "md5": "382a8793d391a3faaac8fdafbc4c2506",
         "size": 80745
+    },
+    "rm380zf.zip": {
+        "fullpath": "mame-merged/rm380zf.zip",
+        "md5": "3d0ea790df58d13f93312b13500d2a94",
+        "size": 5876
     },
     "rmhaihai.zip": {
         "fullpath": "mame-merged/rmhaihai.zip",
