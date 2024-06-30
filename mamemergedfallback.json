@@ -37874,6 +37874,11 @@
         "md5": "1dae34c2b60d786c2f46a110ec414e99",
         "size": 17284402
     },
+    "mame0267lx.zip": {
+        "fullpath": "mame/mame0267lx.zip",
+        "md5": "a3635015c6db8b4f219fbdc5a39d4c65",
+        "size": 17308107
+    },
     "mammothm.zip": {
         "fullpath": "mame-merged/mammothm.zip",
         "md5": "348238b321508700f5f9cebb2b920ef0",
@@ -61541,8 +61546,8 @@
     },
     "sourcecode.zip": {
         "fullpath": "mame/sourcecode.zip",
-        "md5": "8b9d0be02682551d8cbfc1cfea7ff13a",
-        "size": 225883716
+        "md5": "4adb326700f1ed33cdb3f28f6ede7d24",
+        "size": 226101081
     },
     "sourcecode_(akatana-ddpsdoj-unlocked).zip": {
         "fullpath": "mame/sourcecode_(akatana-ddpsdoj-unlocked).zip",
