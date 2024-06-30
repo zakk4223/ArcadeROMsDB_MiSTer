@@ -2189,6 +2189,11 @@
         "md5": "676f48c37940a9f36c930a945a9d0a0e",
         "size": 80026
     },
+    "alphaxz.zip": {
+        "fullpath": "mame-merged/alphaxz.zip",
+        "md5": "3240d15cd895e91dade3d82c75b1c7ae",
+        "size": 99652
+    },
     "alphie.zip": {
         "fullpath": "mame-merged/alphie.zip",
         "md5": "64546de763ec77f8765ec7d75090952d",
@@ -2578,6 +2583,11 @@
         "fullpath": "mame-merged/anmlbskt.zip",
         "md5": "8650e7d8d872f86ee7302c70d2e6c7fc",
         "size": 62540617
+    },
+    "anoworld.zip": {
+        "fullpath": "mame-merged/anoworld.zip",
+        "md5": "d844c8e7411b39a96431e8e8b27fd342",
+        "size": 796463
     },
     "anpanman.zip": {
         "fullpath": "mame-merged/anpanman.zip",
@@ -3736,8 +3746,8 @@
     },
     "asteroid.zip": {
         "fullpath": "mame-merged/asteroid.zip",
-        "md5": "b8ea57e3d489e127887250942fb8ae33",
-        "size": 56488
+        "md5": "9154519d0a293d1492a01adbb0be004c",
+        "size": 58123
     },
     "astoneag.zip": {
         "fullpath": "mame-merged/astoneag.zip",
@@ -5586,8 +5596,8 @@
     },
     "belslots.zip": {
         "fullpath": "mame-merged/belslots.zip",
-        "md5": "ca445d3844f4b841d953afc52bdc79a1",
-        "size": 105567
+        "md5": "a50e01d45208ea852ad1573a08b0dd9c",
+        "size": 107023
     },
     "benberob.zip": {
         "fullpath": "mame-merged/benberob.zip",
@@ -5791,8 +5801,8 @@
     },
     "bigdeal0.zip": {
         "fullpath": "mame-merged/bigdeal0.zip",
-        "md5": "2077144d9a9e9886edd71c196491565d",
-        "size": 144763
+        "md5": "03622d1c9b7f14aa3c156bc8fbd60565",
+        "size": 146219
     },
     "bigevglf.zip": {
         "fullpath": "mame-merged/bigevglf.zip",
@@ -6071,8 +6081,8 @@
     },
     "bishjan.zip": {
         "fullpath": "mame-merged/bishjan.zip",
-        "md5": "34f0bc117f8c4d698c0e9017edfc80d3",
-        "size": 5299333
+        "md5": "a640147dc0b045a82c03b9360fc3ee70",
+        "size": 5300827
     },
     "bit90.zip": {
         "fullpath": "mame-merged/bit90.zip",
@@ -6811,8 +6821,8 @@
     },
     "bombjack.zip": {
         "fullpath": "mame-merged/bombjack.zip",
-        "md5": "e634cf0d0f44c69ec264f4ec36ec54c9",
-        "size": 94278
+        "md5": "41771b8d6abfb238b6e12a1cce701c3e",
+        "size": 94276
     },
     "bombkick.zip": {
         "fullpath": "mame-merged/bombkick.zip",
@@ -7426,8 +7436,8 @@
     },
     "bubucar.zip": {
         "fullpath": "mame-merged/bubucar.zip",
-        "md5": "8b96b0021643ae3a4257f4ad4945b6b0",
-        "size": 924182
+        "md5": "55216fc52135ec902309d7b10ef05ee6",
+        "size": 21819766
     },
     "bucaneer.zip": {
         "fullpath": "mame-merged/bucaneer.zip",
@@ -8326,7 +8336,7 @@
     },
     "catacomb.zip": {
         "fullpath": "mame-merged/catacomb.zip",
-        "md5": "e61554ef95709a6406fd3be2a477f265",
+        "md5": "053bfb4495d50052009c622b8661e3fc",
         "size": 6934
     },
     "catacomp.zip": {
@@ -9078,6 +9088,11 @@
         "fullpath": "mame-merged/chaknpop.zip",
         "md5": "19b94709835a5f9f324f30b25bee9957",
         "size": 38087
+    },
+    "chalgear.zip": {
+        "fullpath": "mame-merged/chalgear.zip",
+        "md5": "7d4304a299954d962721dbf61974a0b3",
+        "size": 411504
     },
     "chalgirl.zip": {
         "fullpath": "mame-merged/chalgirl.zip",
@@ -9871,8 +9886,8 @@
     },
     "cmast97.zip": {
         "fullpath": "mame-merged/cmast97.zip",
-        "md5": "9464068387319c2796621602846f7a1a",
-        "size": 111373
+        "md5": "2b7816d929195173ce16f2ab08ae9c69",
+        "size": 235368
     },
     "cmast99.zip": {
         "fullpath": "mame-merged/cmast99.zip",
@@ -9991,8 +10006,8 @@
     },
     "cmv4.zip": {
         "fullpath": "mame-merged/cmv4.zip",
-        "md5": "b61f5bc96e3d3f79801080aef55c6802",
-        "size": 241284
+        "md5": "92b14f256f352afad9786ac6b44a1247",
+        "size": 323677
     },
     "cmv801.zip": {
         "fullpath": "mame-merged/cmv801.zip",
@@ -10651,8 +10666,8 @@
     },
     "conc.zip": {
         "fullpath": "mame-merged/conc.zip",
-        "md5": "b40696bbb52aff072f0449fcf3cd55e7",
-        "size": 32761
+        "md5": "dc6655df51537c474c2312c9aab28fbb",
+        "size": 32803
     },
     "concams.zip": {
         "fullpath": "mame-merged/concams.zip",
@@ -11898,6 +11913,11 @@
         "fullpath": "mame-merged/cutieq.zip",
         "md5": "20ebe903170a5b6d9851c5c6fec0de56",
         "size": 7623
+    },
+    "cuttherope.zip": {
+        "fullpath": "mame-merged/cuttherope.zip",
+        "md5": "d37c3608199f49af273f05c7349ffe4d",
+        "size": 4357550
     },
     "cv8lc.zip": {
         "fullpath": "mame-merged/cv8lc.zip",
@@ -13916,8 +13936,8 @@
     },
     "dolmen.zip": {
         "fullpath": "mame-merged/dolmen.zip",
-        "md5": "3155e6b5805a0e0b195c6821798c700a",
-        "size": 775106
+        "md5": "5fcb3c854bc79d3fde9bc1b16ced3d4c",
+        "size": 953455
     },
     "dolphin.zip": {
         "fullpath": "mame-merged/dolphin.zip",
@@ -14301,7 +14321,7 @@
     },
     "drail.zip": {
         "fullpath": "mame-merged/drail.zip",
-        "md5": "01f4523d78e6f0fb8dda183a00301fef",
+        "md5": "c86c3a3e5d03790e5cbe87e2644f4d11",
         "size": 432398
     },
     "draillov.zip": {
@@ -15611,7 +15631,7 @@
     },
     "elecyoyo.zip": {
         "fullpath": "mame-merged/elecyoyo.zip",
-        "md5": "28534fc1d5e28de04f68446aa5e7f5a0",
+        "md5": "b037ff5b3121f0589ef7927a678dd180",
         "size": 35592
     },
     "elekscmp.zip": {
@@ -15721,7 +15741,7 @@
     },
     "emirage.zip": {
         "fullpath": "mame-merged/emirage.zip",
-        "md5": "f4b8b98202ff9a0e9cea670e1e4fee92",
+        "md5": "418331c4f835d8f603f3ab3f4f2328ba",
         "size": 46499
     },
     "emjjoshi.zip": {
@@ -17916,13 +17936,13 @@
     },
     "fearless.zip": {
         "fullpath": "mame-merged/fearless.zip",
-        "md5": "fe2706757593b3da086eb210e271c0a3",
-        "size": 14091376
+        "md5": "937a731891362ac8ee5508638a341476",
+        "size": 14098301
     },
     "feas.zip": {
         "fullpath": "mame-merged/feas.zip",
-        "md5": "f1e39248c18f3349a7031f47cdca2da2",
-        "size": 112756
+        "md5": "5e8fb2d4050565d22bf2086572d560b1",
+        "size": 130244
     },
     "feldo.zip": {
         "fullpath": "mame-merged/feldo.zip",
@@ -21336,8 +21356,8 @@
     },
     "grand_l4.zip": {
         "fullpath": "mame-merged/grand_l4.zip",
-        "md5": "05605ba375e658336d35b2baa892f75d",
-        "size": 86395
+        "md5": "71a1f571b1af68958e47537c43dbaf37",
+        "size": 109101
     },
     "grandprx.zip": {
         "fullpath": "mame-merged/grandprx.zip",
@@ -21706,8 +21726,8 @@
     },
     "gtmr2.zip": {
         "fullpath": "mame-merged/gtmr2.zip",
-        "md5": "ce7a883af5caf0993c14e5dd46f5e952",
-        "size": 7639603
+        "md5": "8988abfd01924816ccb6e526fcc76a33",
+        "size": 7983487
     },
     "gtrak10.zip": {
         "fullpath": "mame-merged/gtrak10.zip",
@@ -21806,8 +21826,8 @@
     },
     "gtsers1.zip": {
         "fullpath": "mame-merged/gtsers1.zip",
-        "md5": "233d6064a7dd96ee8e68d4ddd53aaef9",
-        "size": 269364
+        "md5": "0a910644763344b80b7c4ddfc7bd8a5e",
+        "size": 299597
     },
     "gtsers8.zip": {
         "fullpath": "mame-merged/gtsers8.zip",
@@ -21983,6 +22003,11 @@
         "fullpath": "mame-merged/gungunad.zip",
         "md5": "93de845d4201cd711a69a4dad836bbc3",
         "size": 956047
+    },
+    "gunkids.zip": {
+        "fullpath": "mame-merged/gunkids.zip",
+        "md5": "59d70e304535b88c5ab31e2f96b20895",
+        "size": 1057206
     },
     "gunlock.zip": {
         "fullpath": "mame-merged/gunlock.zip",
@@ -23704,6 +23729,11 @@
         "md5": "ca05dcd62684709f761d294a34bbdb9a",
         "size": 60869
     },
+    "hp9816a.zip": {
+        "fullpath": "mame-merged/hp9816a.zip",
+        "md5": "5c06443590959ff079f2fd655f44d5eb",
+        "size": 62590
+    },
     "hp9825a.zip": {
         "fullpath": "mame-merged/hp9825a.zip",
         "md5": "6f564ed6b7fa34d808dae4a09974c1d8",
@@ -25321,7 +25351,7 @@
     },
     "ivant.zip": {
         "fullpath": "mame-merged/ivant.zip",
-        "md5": "482e52c197c49b59093eec9be64fda49",
+        "md5": "4f6fdf4308883181ba1b10f17ab8c9a0",
         "size": 1025132
     },
     "ivorytsk.zip": {
@@ -28991,8 +29021,8 @@
     },
     "karatvst.zip": {
         "fullpath": "mame-merged/karatvst.zip",
-        "md5": "5d0036327056b480f8afa7bda3041d07",
-        "size": 11773621
+        "md5": "76e259c579f140f48084cda62b7b2140",
+        "size": 18841461
     },
     "karianx.zip": {
         "fullpath": "mame-merged/karianx.zip",
@@ -29358,6 +29388,11 @@
         "fullpath": "mame-merged/kidniki.zip",
         "md5": "9c89f342bcb4757ea70072d470e92308",
         "size": 719013
+    },
+    "kidsupstar.zip": {
+        "fullpath": "mame-merged/kidsupstar.zip",
+        "md5": "cb40f64adcc9190a376a2d7436ec65bd",
+        "size": 4167797
     },
     "kikcubic.zip": {
         "fullpath": "mame-merged/kikcubic.zip",
@@ -29821,8 +29856,8 @@
     },
     "kongball.zip": {
         "fullpath": "mame-merged/kongball.zip",
-        "md5": "343f7562657736759ef3b09a8addac6c",
-        "size": 1885148
+        "md5": "e42c5fc20a369702be7b2d2b19bba3bf",
+        "size": 1885339
     },
     "konhaji.zip": {
         "fullpath": "mame-merged/konhaji.zip",
@@ -37873,6 +37908,11 @@
         "fullpath": "mame/mame0266lx.zip",
         "md5": "1dae34c2b60d786c2f46a110ec414e99",
         "size": 17284402
+    },
+    "mame0267b_64bit_(akatana-ddpsdoj-unlocked).zip": {
+        "fullpath": "mame/mame0267b_64bit_(akatana-ddpsdoj-unlocked).zip",
+        "md5": "e787b3d46dcdb3ea75c40c65ef2f990c",
+        "size": 141601634
     },
     "mame0267lx.zip": {
         "fullpath": "mame/mame0267lx.zip",
