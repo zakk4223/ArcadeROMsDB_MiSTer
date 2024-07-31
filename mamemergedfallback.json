@@ -13419,6 +13419,11 @@
         "md5": "a815d2898ee53e4a0516151d8631dac8",
         "size": 63572
     },
+    "diamrun.zip": {
+        "fullpath": "mame-merged/diamrun.zip",
+        "md5": "f74be55554f244bb6fca623ef81db011",
+        "size": 42771
+    },
     "dibifuca.zip": {
         "fullpath": "mame-merged/dibifuca.zip",
         "md5": "c37e4df19d86198b73d1c43cda6f1656",
@@ -37411,6 +37416,11 @@
     },
     "ma7558.zip": {
         "fullpath": "mame-merged/ma7558.zip",
+        "md5": "12dc583341c773d2a93516003e6cff54",
+        "size": 163313
+    },
+    "ma7558r0.zip": {
+        "fullpath": "mame-merged/ma7558r0.zip",
         "md5": "12dc583341c773d2a93516003e6cff54",
         "size": 163313
     },
