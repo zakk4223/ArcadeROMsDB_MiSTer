@@ -426,8 +426,8 @@
     },
     "MAME (bios-devices).zip": {
         "fullpath": "BIOS/MAME (bios-devices).zip",
-        "md5": "d068d76dd5c1954a7cc91b3e38897ace",
-        "size": 516818552
+        "md5": "b981c3f2362460121ca11ce69fb43b6f",
+        "size": 520604890
     },
     "a1000.zip": {
         "fullpath": "mame-merged/a1000.zip",
@@ -38119,6 +38119,11 @@
         "md5": "a3635015c6db8b4f219fbdc5a39d4c65",
         "size": 17308107
     },
+    "mame0268lx.zip": {
+        "fullpath": "mame/mame0268lx.zip",
+        "md5": "a72f3556394543c3179d52cc59acde92",
+        "size": 17363102
+    },
     "mammothm.zip": {
         "fullpath": "mame-merged/mammothm.zip",
         "md5": "348238b321508700f5f9cebb2b920ef0",
@@ -61936,8 +61941,8 @@
     },
     "sourcecode.zip": {
         "fullpath": "mame/sourcecode.zip",
-        "md5": "4adb326700f1ed33cdb3f28f6ede7d24",
-        "size": 226101081
+        "md5": "499791b01b6438a8936b425d578bd4bc",
+        "size": 226361536
     },
     "sourcecode_(akatana-ddpsdoj-unlocked).zip": {
         "fullpath": "mame/sourcecode_(akatana-ddpsdoj-unlocked).zip",
