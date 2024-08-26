@@ -13,7 +13,7 @@
 		"0228": "https://archive.org/download/MAME_0.228_ROMs_merged/MAME_0.228_ROMs_merged.zip/",
 		"fallback": "https://archive.org/download/mame-merged/",
 		"darksoft_neogeo": "https://archive.org/download/mister_neogeo/",
-		"arcade_offset": "https://archive.org/download/arcade_offset/"
+		"arcade_offset": "https://archive.org/download/ffightae_cps2/"
 	},
 	"hbmame": {
 		"0217": "https://archive.org/download/hbmame0217/",
@@ -31,6 +31,6 @@
 		"https://github.com/jotego/jtcores_mister/archive/refs/heads/main.zip": "jtcores_mister-main/_Arcade/*",
 		"https://github.com/theypsilon/Unofficial_Distribution_MiSTer/archive/refs/heads/main.zip": "Unofficial_Distribution_MiSTer-main/_Arcade/*",
 		"https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/archive/refs/heads/main.zip": "Distribution-MiSTerFPGA-develop/_Arcade/*",
-                "https://github.com/Toryalai1/Arcade_Offset/archive/refs/heads/main.zip": "Arcade_Offset-main/release/_Arcade Offset/*"
+    "https://github.com/Toryalai1/Arcade_Offset/archive/refs/heads/main.zip": "Arcade_Offset-main/release/_Arcade Offset/*"
 	}
 }
