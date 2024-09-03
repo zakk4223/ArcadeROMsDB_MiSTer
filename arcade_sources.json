@@ -11,7 +11,7 @@
 		"0223": "https://archive.org/download/MAME223RomsOnlyMerged/",
 		"0224": "https://archive.org/download/MAME224RomsOnlyMerged/",
 		"0228": "https://archive.org/download/MAME_0.228_ROMs_merged/MAME_0.228_ROMs_merged.zip/",
-		"fallback": "https://archive.org/download/mame-merged/",
+    "fallback": "https://archive.org/download/MAME_0.261_ROMs_merged/"
 		"darksoft_neogeo": "https://archive.org/download/mister_neogeo/",
 		"arcade_offset": "https://archive.org/download/ffightae_cps2/"
 	},
