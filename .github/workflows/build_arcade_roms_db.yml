@@ -19,6 +19,9 @@ jobs:
       run: |
           curl -LOs https://archive.org/download/ia-pex/ia
           chmod +x ia
+    -name: Configure IA
+    run: |
+          ./ia configure -u ${{ secrets.IA_USER }} -p ${{ secrets.IA_PASS }}
     - name: Fallback hash DB
       run: ./build_hash_db.sh
       env:
