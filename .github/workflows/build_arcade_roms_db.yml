@@ -51,7 +51,7 @@ jobs:
         IA_USER: ${{ secrets.IA_USER }}
         IA_PASS: ${{ secrets.IA_PASS }}
     - name: Sync missing files
-      run: upload_files.sh ./iatmp ./ia
+      run: ./upload_files.sh ./iatmp ./ia
     - name: Build
       run: |
         rm -rf delme
