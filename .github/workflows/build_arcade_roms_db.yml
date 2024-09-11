@@ -58,5 +58,5 @@ jobs:
         python3 build_arcade_roms_db.py
       env:
         FORCE_MAMESOURCE: "archive"
-        GIT_PUSH_BRANCH: dbtest
+        GIT_PUSH_BRANCH: db
         DB_URL: https://raw.githubusercontent.com/zakk4223/ArcadeROMsDB_MiSTer/db/arcade_roms_db.json.zip
