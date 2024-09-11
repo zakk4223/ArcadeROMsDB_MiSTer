@@ -52,6 +52,7 @@ def main() -> None:
     source = os.environ['SOURCE'].strip()
     db_file = os.environ['DB_FILE'].strip()
     oneshot = "ONESHOT" in os.environ
+    uniq_path = "UNIQ_PATH" in os.environ
     timeout = int(os.environ.get('TIMEOUT_MINUTES', '-1').strip()) * 60
     if timeout >= 0:
         timeout += int(time.time())
@@ -60,22 +61,22 @@ def main() -> None:
     print('db_file: %s' % db_file)
     print('timeout: %d' % timeout)
 
-    process(source, InterruptHandler(timeout), db_file, oneshot)
+    process(source, InterruptHandler(timeout), db_file, oneshot, uniq_path)
 
     print('Done.')
 
-def process(source: str, interrupt_handler: InterruptHandler, db_file: str, oneshot: bool) -> None:
+def process(source: str, interrupt_handler: InterruptHandler, db_file: str, oneshot: bool, uniq_path: bool) -> None:
     if re.fullmatch('https://archive[.]org/download/([-_a-z0-9.%]+)/([-_a-z0-9.%]+)[.]zip/', source.lower()):
         print('process_with_downloads')
         return process_with_downloads(source, interrupt_handler, db_file, oneshot)
 
     if re.fullmatch('([-_a-z0-9.%/\[\]]+)', source.lower()):
         print('process_with_metadata_query')
-        return process_with_metadata_query(source, interrupt_handler, db_file, oneshot)
+        return process_with_metadata_query(source, interrupt_handler, db_file, oneshot, uniq_path)
     
     raise Exception('Could not process source %s' % source)
 
-def process_with_metadata_query(source: str, interrupt_handler: InterruptHandler, db_file: str, oneshot: bool) -> None:
+def process_with_metadata_query(source: str, interrupt_handler: InterruptHandler, db_file: str, oneshot: bool, uniq_path: bool) -> None:
     source_route, source_dir = split_on_first_slash(source)
     proc = subprocess.run(curl(["https://archive.org/metadata/%s" % source_route]), stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
     if proc.returncode == 0:
@@ -99,8 +100,11 @@ def process_with_metadata_query(source: str, interrupt_handler: InterruptHandler
             print('Skip: ' + rom)
             continue
 
-        print(rom)
-        save_rom_in_files(db_file, not oneshot, files, os.path.basename(rom), {
+        print(rom if uniq_path else os.path.basename(rom))
+        print(uniq_path)
+        print("CALL SAVE")
+
+        save_rom_in_files(db_file, not oneshot, files, rom if uniq_path else os.path.basename(rom), {
             "md5": description["md5"].strip(),
             "size": int(description["size"].strip()),
             "fullpath": rom
@@ -145,8 +149,10 @@ def add_rom_to_skip_list(files, rom):
     files['0000_skip_list'].append(rom)
 
 def save_rom_in_files(db_file: str, do_save: bool, files: Dict[str, HashData], rom: str, rom_description: HashData) -> None:
+    uniq_path = "UNIQ_PATH" in os.environ
+    print(rom if uniq_path else Path(rom).name)
     if rom_description is not None:
-        files[Path(rom).name] = rom_description
+        files[rom if uniq_path else Path(rom).name] = rom_description
         if do_save: save_db_file(db_file, files)
 
 def save_db_file(db_file, files):

@@ -55,6 +55,8 @@ def main():
 
     all_mras = find_all_mras(mra_dirs)
 
+    build_diff_db = os.environ.get('BUILD_FOR_IADIFF', None)
+
     for mra in ([mra for mra in all_mras if '_alternatives' not in mra.lower()] + [mra for mra in all_mras if '_alternatives' in mra.lower()]):
         print('Reading MRA: %s' % mra)
         mameversion, zips, rbf, e = read_mra_fields(mra)
@@ -76,12 +78,13 @@ def main():
                 continue
 
             hash_db, mameversion = load_hash_db_with_fallback(mameversion, hash_dbs_storage, is_hbmame, mra)
-            if zip_name not in hash_db:
+            zip_extra = os.path.join("hbmame" if is_hbmame else "mame", zip_name)
+            if zip_name not in hash_db and zip_extra not in hash_db:
 
                 hash_db, mameversion = load_hash_db_with_fallback(None, hash_dbs_storage, is_hbmame, mra)
                 print('INFO: zip_name %s not in hash_db %s -> Fallback instead' % (zip_name, mameversion))
 
-            if zip_name not in hash_db:
+            if zip_name not in hash_db and zip_extra not in hash_db:
                 print('INFO: zip_name %s not in hash_db %s -> Skipping........' % (zip_name, mameversion))
                 continue
 
@@ -91,15 +94,31 @@ def main():
             if rbf is not None:
                 tags.append(tag_by_rbf(tag_dictionary, rbf))
 
+            if not zip_name in hash_db:
+                zip_name = zip_extra
             hash_description = hash_db[zip_name]
             
              
-            files[games_path] = {
-                "hash": hash_description['md5'],
-                "size": hash_description['size'],
-                "url": sources['hbmame' if is_hbmame else 'mame'][mameversion] + (hash_description['fullpath'] if 'fullpath' in hash_description else zip_name),
-                "tags": tags
-            }
+
+            if build_diff_db:
+
+                files[games_path] = {
+                    "path": ('hbmame' if is_hbmame else 'mame') + '/' + zip_name,
+                    "hash": hash_description['md5'],
+                    "version": mameversion,
+                    "size": hash_description['size'],
+                    "hbmame": is_hbmame,
+                    "url": sources['hbmame' if is_hbmame else 'mame'][mameversion] + (hash_description['fullpath'] if 'fullpath' in hash_description else zip_name),
+
+                }
+            else:
+                files[games_path] = {
+                    "hash": hash_description['md5'],
+                    "size": hash_description['size'],
+                    "url": sources['hbmame' if is_hbmame else 'mame'][mameversion] + (hash_description['fullpath'] if 'fullpath' in hash_description else zip_name),
+                    "tags": tags
+                }
+            
 
             versions[games_path] = mameversion
 
@@ -125,7 +144,10 @@ def main():
         "timestamp":  int(time.time())
     }
 
-    save_json(db, "test.json")
+    local_save_file = os.environ.get('LOCAL_SAVE_FILE', None)
+    if local_save_file is not None:
+        save_json(db, local_save_file)
+
     git_push_branch = os.environ.get('GIT_PUSH_BRANCH', None)
     if git_push_branch is not None:
         try_git_push(db, 'arcade_roms_db.json.zip', git_push_branch, os.environ.get('DB_URL', ''))
@@ -138,7 +160,9 @@ def tag_by_rbf(tag_dictionary, rbf):
     return tag_dictionary[rbf]
 
 def load_hash_db_with_fallback(old_mameversion, hash_dbs_storage, is_hbmame, mra):
-    new_mameversion = old_mameversion
+     
+    force_mameversion = os.environ.get('FORCE_MAMESOURCE', None)
+    new_mameversion = force_mameversion if force_mameversion else old_mameversion
     hash_db = load_hash_db_from_mameversion(new_mameversion, hash_dbs_storage, is_hbmame)
     if hash_db is None:
         if is_hbmame:
