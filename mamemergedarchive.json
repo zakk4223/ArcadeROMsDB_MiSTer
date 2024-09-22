@@ -374,6 +374,11 @@
         "md5": "2788487f12a6cf89f6941e6c9e39755c",
         "size": 1814778
     },
+    "mame/avengers.zip": {
+        "fullpath": "mame/avengers.zip",
+        "md5": "528c7eb7acec8d0c20751465eb42d1d3",
+        "size": 583083
+    },
     "mame/avsp.zip": {
         "fullpath": "mame/avsp.zip",
         "md5": "ab9ba0b26583c8f7d2300a0a3764f498",
@@ -2203,6 +2208,11 @@
         "fullpath": "mame/plusalph.zip",
         "md5": "7f936d4d34914b2b9b0577b5e1828174",
         "size": 1014633
+    },
+    "mame/pmonster.zip": {
+        "fullpath": "mame/pmonster.zip",
+        "md5": "e722255f5932a9de808a6c4ba5a28804",
+        "size": 921333
     },
     "mame/pnickj.zip": {
         "fullpath": "mame/pnickj.zip",
