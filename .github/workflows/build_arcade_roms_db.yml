@@ -43,6 +43,7 @@ jobs:
 
     - name: Download missing files
       run: |
+        touch ./cookie.tmp
         python3 generate_missing_rom_list.py
         cp mamemergedarchive.json hbmamemergedarchive.json
       env:
