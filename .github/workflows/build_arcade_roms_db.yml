@@ -3,6 +3,8 @@ name: Build Arcade Roms DB
 permissions: write-all
 
 on:
+  schedule:
+  - cron:  "*/20 * * * *"
   workflow_dispatch:
 
 jobs:
