@@ -444,6 +444,11 @@
         "md5": "c9101b88da1232e65eae172f88d89dd0",
         "size": 16683484
     },
+    "mame/bbmanw.zip": {
+        "fullpath": "mame/bbmanw.zip",
+        "md5": "fc1b24e262e15225b3ec82c59b8476d3",
+        "size": 1460815
+    },
     "mame/bchopper.zip": {
         "fullpath": "mame/bchopper.zip",
         "md5": "62d306d6fc5178f402814ae4884efe99",
@@ -1018,6 +1023,11 @@
         "fullpath": "mame/dunkshot.zip",
         "md5": "b1ccfded399a10f5d11db76df9c3c4df",
         "size": 482865
+    },
+    "mame/dynablst.zip": {
+        "fullpath": "mame/dynablst.zip",
+        "md5": "adfed05882a037c646d8f19e519836d0",
+        "size": 853988
     },
     "mame/dynwar.zip": {
         "fullpath": "mame/dynwar.zip",
