@@ -2489,6 +2489,11 @@
         "md5": "f09eaa9edee5fffd8ff5571578afcf25",
         "size": 521884
     },
+    "mame/salamand.zip": {
+        "fullpath": "mame/salamand.zip",
+        "md5": "6cedf97abc26ec1fbeb7fd394ae0a8bc",
+        "size": 835260
+    },
     "mame/samesame.zip": {
         "fullpath": "mame/samesame.zip",
         "md5": "d2ead40cb3ab3d6fd964d7128df3c6f8",
@@ -3418,6 +3423,11 @@
         "fullpath": "mame/xmcota.zip",
         "md5": "7a36666d679ed9657af88bda85e0ec71",
         "size": 30748753
+    },
+    "mame/xmen.zip": {
+        "fullpath": "mame/xmen.zip",
+        "md5": "6bec5ba37d8af5f82fdc5c6073f17e8a",
+        "size": 6791425
     },
     "mame/xmultipl.zip": {
         "fullpath": "mame/xmultipl.zip",
