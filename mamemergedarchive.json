@@ -614,6 +614,11 @@
         "md5": "32288a9529adea6af7b7eae4f7b0937d",
         "size": 1414483
     },
+    "mame/bubsys.zip": {
+        "fullpath": "mame/bubsys.zip",
+        "md5": "f81298afd68a1a24a49a1a2d9f087964",
+        "size": 7950
+    },
     "mame/bullet.zip": {
         "fullpath": "mame/bullet.zip",
         "md5": "17d08acb2758efa2b1634703c13c9398",
@@ -1373,6 +1378,11 @@
         "fullpath": "mame/guwange.zip",
         "md5": "dc94c83b75d63936bb46104968ac21a9",
         "size": 19157558
+    },
+    "mame/gwarrior.zip": {
+        "fullpath": "mame/gwarrior.zip",
+        "md5": "50d2f6a2d84a1d834589f861886644e7",
+        "size": 126732
     },
     "mame/gyruss.zip": {
         "fullpath": "mame/gyruss.zip",
@@ -3248,6 +3258,16 @@
         "fullpath": "mame/turtles.zip",
         "md5": "4cd0cd1558d58e5e765893c9497e9011",
         "size": 47481
+    },
+    "mame/twinbee.zip": {
+        "fullpath": "mame/twinbee.zip",
+        "md5": "f555be6538ec53817bd30e2ea7a9429e",
+        "size": 97550
+    },
+    "mame/twinbeeb.zip": {
+        "fullpath": "mame/twinbeeb.zip",
+        "md5": "8e24039d28b4a63d08c75c6fe3069817",
+        "size": 89155
     },
     "mame/twotiger.zip": {
         "fullpath": "mame/twotiger.zip",
