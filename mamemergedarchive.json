@@ -829,6 +829,11 @@
         "md5": "28510524851cdd16d175d37da80b1048",
         "size": 15149311
     },
+    "mame/cuebrick.zip": {
+        "fullpath": "mame/cuebrick.zip",
+        "md5": "d4daaf7c3b4f22528c6348af23403ebc",
+        "size": 458875
+    },
     "mame/cworld.zip": {
         "fullpath": "mame/cworld.zip",
         "md5": "7b957f3061527245dd049f0afd9cf88a",
