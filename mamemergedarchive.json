@@ -2099,6 +2099,11 @@
         "md5": "dd9bcb3d72264a1daa89bc7a7f0f3dde",
         "size": 30829397
     },
+    "mame/onna34ro.zip": {
+        "fullpath": "mame/onna34ro.zip",
+        "md5": "f550711fbd169eabcbd2bb2d0acbfbc2",
+        "size": 153341
+    },
     "mame/opaopa.zip": {
         "fullpath": "mame/opaopa.zip",
         "md5": "b1ae907970201eecd6d836cae3d4dac9",
@@ -2518,6 +2523,11 @@
         "fullpath": "mame/rtypeleo.zip",
         "md5": "f217df713386e701f55616a3103d9085",
         "size": 2432859
+    },
+    "mame/rumba.zip": {
+        "fullpath": "mame/rumba.zip",
+        "md5": "5dd8533abfb863cbbea2ada668ef4771",
+        "size": 61372
     },
     "mame/rygar.zip": {
         "fullpath": "mame/rygar.zip",
