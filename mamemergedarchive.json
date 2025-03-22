@@ -979,6 +979,11 @@
         "md5": "93e491fd9e751851b975cc9de08e2209",
         "size": 612761
     },
+    "mame/dokaben2.zip": {
+        "fullpath": "mame/dokaben2.zip",
+        "md5": "4645be7ca26d2f8538a0a1a67b41f887",
+        "size": 614632
+    },
     "mame/domino.zip": {
         "fullpath": "mame/domino.zip",
         "md5": "cd5b5e54ef59a32cdb01a2628c76edae",
@@ -1338,6 +1343,11 @@
         "fullpath": "mame/gravitar.zip",
         "md5": "79c19547778ebcc916c15fce6cdbf1e4",
         "size": 113328
+    },
+    "mame/grdforce.zip": {
+        "fullpath": "mame/grdforce.zip",
+        "md5": "62dcaefdb10a89bf135120e4ec74f3ad",
+        "size": 10701625
     },
     "mame/grdian.zip": {
         "fullpath": "mame/grdian.zip",
@@ -2519,6 +2529,11 @@
         "md5": "f71542ba5dc2b9a49fca3dd52f73bd50",
         "size": 67855
     },
+    "mame/rsgun.zip": {
+        "fullpath": "mame/rsgun.zip",
+        "md5": "69a2ae5a1e0fa6d081b6f7d2673c80b4",
+        "size": 5841021
+    },
     "mame/rtype.zip": {
         "fullpath": "mame/rtype.zip",
         "md5": "41216718de9d9dcce760095ee6011ec2",
@@ -3003,6 +3018,11 @@
         "fullpath": "mame/strider.zip",
         "md5": "7b6de232df5a76cc693c5ddbe9e7548e",
         "size": 4633533
+    },
+    "mame/stvbios.zip": {
+        "fullpath": "mame/stvbios.zip",
+        "md5": "21d2484ee251ea23cd04caf2c2b76217",
+        "size": 3455065
     },
     "mame/subs.zip": {
         "fullpath": "mame/subs.zip",
