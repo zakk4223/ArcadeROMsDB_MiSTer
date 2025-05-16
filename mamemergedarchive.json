@@ -1464,6 +1464,11 @@
         "md5": "e0e085975c52a08580afcdbcd7e6f72f",
         "size": 5676432
     },
+    "mame/hopmappy.zip": {
+        "fullpath": "mame/hopmappy.zip",
+        "md5": "d4ca78dc994d4636e26731d213d32d23",
+        "size": 27853
+    },
     "mame/horekid.zip": {
         "fullpath": "mame/horekid.zip",
         "md5": "6686fb8d347b70a9379bd14c06e01362",
@@ -3518,6 +3523,11 @@
         "fullpath": "mame/wmatch.zip",
         "md5": "711b73ed8cf71c4d4dfd6d0dda2835fa",
         "size": 80892
+    },
+    "mame/wndrmomo.zip": {
+        "fullpath": "mame/wndrmomo.zip",
+        "md5": "f604413eac6cbb323e8aa7804df5d0ae",
+        "size": 352834
     },
     "mame/wndrplnt.zip": {
         "fullpath": "mame/wndrplnt.zip",
