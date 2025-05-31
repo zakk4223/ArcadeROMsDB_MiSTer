@@ -22,6 +22,9 @@ def main():
     
     arcade_roms_dbj = os.environ.get('ARCADE_ROMS_DB', None)
     ia_repo_dbj = os.environ.get('IA_REPO_DB', None)
+    rom_skip_list_file = os.environ.get('SKIP_LIST', None)
+
+    rom_skip_list = []
 
     if not arcade_roms_dbj or not ia_repo_dbj:
         print('MISSING ENV VARS FOR DB')
@@ -37,6 +40,10 @@ def main():
     with open(ia_repo_dbj, 'r') as f:
         ia_db = json.load(f)
 
+    with open(rom_skip_list_file, 'r') as f:
+        rom_skip_list = json.load(f)
+
+
     
     arcade_files = arcade_db['files']
 
@@ -45,6 +52,8 @@ def main():
         need_sync = False
         rom_hash = rom_data['hash']
         rom_path = rom_data['path']
+        if rom_path in rom_skip_list:
+            continue
         if rom_data['path'] in ia_db:
             if rom_hash != ia_db[rom_path]['md5']:
                 need_sync = True

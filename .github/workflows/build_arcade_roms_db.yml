@@ -49,6 +49,7 @@ jobs:
       env:
         ARCADE_ROMS_DB: "./mirrordb.json"
         IA_REPO_DB: "mamemergedarchive.json"
+        SKIP_LIST: "./skip_list.json"
         IA_USER: ${{ secrets.IA_USER }}
         IA_PASS: ${{ secrets.IA_PASS }}
     - name: Sync missing files
