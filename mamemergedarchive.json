@@ -1,4 +1,9 @@
 {
+    "cameltry.zip": {
+        "fullpath": "cameltry.zip",
+        "md5": "c30f3707c837e747d702f9c039fcd189",
+        "size": 851847
+    },
     "hbmame/asteroid.zip": {
         "fullpath": "hbmame/asteroid.zip",
         "md5": "054915cb77d6a776f12f839b29f2df4e",
@@ -646,8 +651,8 @@
     },
     "mame/cameltry.zip": {
         "fullpath": "mame/cameltry.zip",
-        "md5": "56e4f078636106e7e8c2b39ee2d7462c",
-        "size": 729632
+        "md5": "c30f3707c837e747d702f9c039fcd189",
+        "size": 851847
     },
     "mame/canyon.zip": {
         "fullpath": "mame/canyon.zip",
