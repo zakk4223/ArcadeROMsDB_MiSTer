@@ -1339,6 +1339,11 @@
         "md5": "37891860433cc778f230a86e582f4419",
         "size": 454617
     },
+    "mame/genpeitd.zip": {
+        "fullpath": "mame/genpeitd.zip",
+        "md5": "7723fd09a3bebbbf231dfec18109814c",
+        "size": 566433
+    },
     "mame/ghouls.zip": {
         "fullpath": "mame/ghouls.zip",
         "md5": "321baed3315ec62b8b82776122a641be",
@@ -2598,6 +2603,11 @@
         "fullpath": "mame/rodland.zip",
         "md5": "ba39eb27cc565bfe26316f17d5022513",
         "size": 2871620
+    },
+    "mame/roishtar.zip": {
+        "fullpath": "mame/roishtar.zip",
+        "md5": "a41827894f2b87ea1b4a52355d230f67",
+        "size": 114339
     },
     "mame/rompers.zip": {
         "fullpath": "mame/rompers.zip",
