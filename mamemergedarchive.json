@@ -1924,6 +1924,11 @@
         "md5": "ab29451c756b3904bf2d6a0d7eec9dd8",
         "size": 3009661
     },
+    "mame/metrocrs.zip": {
+        "fullpath": "mame/metrocrs.zip",
+        "md5": "ef486bac547210b5a59291a2487081ee",
+        "size": 76610
+    },
     "mame/mia.zip": {
         "fullpath": "mame/mia.zip",
         "md5": "cfcc2d7f6fdff9ea5cf75538fa5a6cb9",
