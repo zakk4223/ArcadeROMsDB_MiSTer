@@ -164,6 +164,11 @@
         "md5": "cc5e72fec03c487ef8a05e7a8a4c9127",
         "size": 212867
     },
+    "history/files/mame/ckong.zip.~1~": {
+        "fullpath": "history/files/mame/ckong.zip.~1~",
+        "md5": "d2ed3fbb9a08fb5adcac29c869ffdd32",
+        "size": 252291
+    },
     "history/files/mame/dotron.zip.~1~": {
         "fullpath": "history/files/mame/dotron.zip.~1~",
         "md5": "521bb96735fc835ca5c13bbf301de065",
@@ -178,6 +183,11 @@
         "fullpath": "history/files/mame/mrdo.zip.~1~",
         "md5": "0c6585dbfde2121046981a7f724c01aa",
         "size": 32697
+    },
+    "history/files/mame/puckman.zip.~1~": {
+        "fullpath": "history/files/mame/puckman.zip.~1~",
+        "md5": "91c09a94e82dc6b0cbece418d568f6e3",
+        "size": 471036
     },
     "mame/1941.zip": {
         "fullpath": "mame/1941.zip",
@@ -751,8 +761,8 @@
     },
     "mame/ckong.zip": {
         "fullpath": "mame/ckong.zip",
-        "md5": "d2ed3fbb9a08fb5adcac29c869ffdd32",
-        "size": 252291
+        "md5": "da9409b7ef01b460df3e7e01b036e465",
+        "size": 235727
     },
     "mame/ckongpt2.zip": {
         "fullpath": "mame/ckongpt2.zip",
@@ -2621,8 +2631,8 @@
     },
     "mame/puckman.zip": {
         "fullpath": "mame/puckman.zip",
-        "md5": "91c09a94e82dc6b0cbece418d568f6e3",
-        "size": 471036
+        "md5": "fa62036b337a48a223907a02c278e138",
+        "size": 410008
     },
     "mame/pulirula.zip": {
         "fullpath": "mame/pulirula.zip",
