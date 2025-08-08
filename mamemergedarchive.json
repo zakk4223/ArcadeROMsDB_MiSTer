@@ -164,6 +164,11 @@
         "md5": "cc5e72fec03c487ef8a05e7a8a4c9127",
         "size": 212867
     },
+    "history/files/mame/atetris.zip.~1~": {
+        "fullpath": "history/files/mame/atetris.zip.~1~",
+        "md5": "7d3662f2009220260825a949788fbe74",
+        "size": 297368
+    },
     "history/files/mame/ckong.zip.~1~": {
         "fullpath": "history/files/mame/ckong.zip.~1~",
         "md5": "d2ed3fbb9a08fb5adcac29c869ffdd32",
@@ -381,8 +386,8 @@
     },
     "mame/atetris.zip": {
         "fullpath": "mame/atetris.zip",
-        "md5": "7d3662f2009220260825a949788fbe74",
-        "size": 297368
+        "md5": "e4736fc757b3dc539b9e849fb4842fff",
+        "size": 350715
     },
     "mame/athena.zip": {
         "fullpath": "mame/athena.zip",
