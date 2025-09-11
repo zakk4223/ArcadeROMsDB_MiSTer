@@ -984,6 +984,11 @@
         "md5": "d88ffe634dd8105408f1dc790d113f09",
         "size": 1462652
     },
+    "mame/deadconx.zip": {
+        "fullpath": "mame/deadconx.zip",
+        "md5": "fed39d126e3666539c7dba6b153db1eb",
+        "size": 2011026
+    },
     "mame/decathlt.zip": {
         "fullpath": "mame/decathlt.zip",
         "md5": "ec810d23283438be5247dcfcb5ad4bc2",
@@ -2083,6 +2088,11 @@
         "fullpath": "mame/mercs.zip",
         "md5": "ab29451c756b3904bf2d6a0d7eec9dd8",
         "size": 3009661
+    },
+    "mame/metalb.zip": {
+        "fullpath": "mame/metalb.zip",
+        "md5": "24bee12b3dc833c5b7c83e9cbc234cb6",
+        "size": 2650700
     },
     "mame/metrocrs.zip": {
         "fullpath": "mame/metrocrs.zip",
