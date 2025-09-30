@@ -1354,6 +1354,11 @@
         "md5": "a0137699844e060a2d9774d7170e915f",
         "size": 148862
     },
+    "mame/footchmp.zip": {
+        "fullpath": "mame/footchmp.zip",
+        "md5": "627282692b0e32807a95033f94e1b13d",
+        "size": 4333905
+    },
     "mame/forgottn.zip": {
         "fullpath": "mame/forgottn.zip",
         "md5": "8d6c2ecf71e9a3a8a6c1cb4206436dcc",
@@ -1888,6 +1893,11 @@
         "fullpath": "mame/koroleva.zip",
         "md5": "5a97f572b54c3fa553f30164c28dfe1f",
         "size": 28250
+    },
+    "mame/koshien.zip": {
+        "fullpath": "mame/koshien.zip",
+        "md5": "b50154f797801cd351c87718ca353696",
+        "size": 2100383
     },
     "mame/kot.zip": {
         "fullpath": "mame/kot.zip",
