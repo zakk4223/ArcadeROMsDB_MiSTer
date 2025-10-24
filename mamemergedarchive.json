@@ -329,6 +329,11 @@
         "md5": "5ebfeffed227c82e57d14e49e16bdc9c",
         "size": 45197
     },
+    "mame/aquario.zip": {
+        "fullpath": "mame/aquario.zip",
+        "md5": "d1084c9edada172689dbf67dc2fea7d6",
+        "size": 2225609
+    },
     "mame/arkanoid.zip": {
         "fullpath": "mame/arkanoid.zip",
         "md5": "2a27bfc2bd8e70274d82cada76a53bb5",
@@ -3988,6 +3993,11 @@
         "fullpath": "mame/ws.zip",
         "md5": "2c097340e51a924a5c6eaa7bbd583938",
         "size": 572696
+    },
+    "mame/wwallyj.zip": {
+        "fullpath": "mame/wwallyj.zip",
+        "md5": "dc5c38d5dabcf9af3d2afd5e03fa0e0e",
+        "size": 3303818
     },
     "mame/wwestern.zip": {
         "fullpath": "mame/wwestern.zip",
