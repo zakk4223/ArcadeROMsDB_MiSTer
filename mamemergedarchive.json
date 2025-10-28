@@ -2719,6 +2719,21 @@
         "md5": "f30273ca73fa8d3a19af50e09fe1c686",
         "size": 46583
     },
+    "mame/qcrayon.zip": {
+        "fullpath": "mame/qcrayon.zip",
+        "md5": "92bfa92a9c0750c825367ad59159ab94",
+        "size": 2001180
+    },
+    "mame/qcrayon2.zip": {
+        "fullpath": "mame/qcrayon2.zip",
+        "md5": "88d1541bb87ff64d01aefb70ca7f866e",
+        "size": 1853402
+    },
+    "mame/qjinsei.zip": {
+        "fullpath": "mame/qjinsei.zip",
+        "md5": "3e5f9cea8458787d8cdde3fe0a7c748c",
+        "size": 1958791
+    },
     "mame/qndream.zip": {
         "fullpath": "mame/qndream.zip",
         "md5": "c6bf9af175d1a90f6da50dfa80c1f3b1",
@@ -2734,6 +2749,11 @@
         "md5": "ff9adb5050b6d14009e64202fc90750f",
         "size": 1945248
     },
+    "mame/qtorimon.zip": {
+        "fullpath": "mame/qtorimon.zip",
+        "md5": "814be223337a21e1df927e9e569fe9c3",
+        "size": 513555
+    },
     "mame/quartet.zip": {
         "fullpath": "mame/quartet.zip",
         "md5": "f7482d757b5dd787fa16b823f95479dc",
@@ -2743,6 +2763,21 @@
         "fullpath": "mame/quester.zip",
         "md5": "86852f547902e1608eadb2c208b70bdb",
         "size": 203464
+    },
+    "mame/quizhq.zip": {
+        "fullpath": "mame/quizhq.zip",
+        "md5": "2c21aae2ecabaf05fc258b317214ccca",
+        "size": 616158
+    },
+    "mame/qzchikyu.zip": {
+        "fullpath": "mame/qzchikyu.zip",
+        "md5": "ed762a3cde04b959d40a46d9165140de",
+        "size": 1547530
+    },
+    "mame/qzquest.zip": {
+        "fullpath": "mame/qzquest.zip",
+        "md5": "638ef0681c6cc6daaf699eb941d68de3",
+        "size": 1513756
     },
     "mame/radarscp.zip": {
         "fullpath": "mame/radarscp.zip",
