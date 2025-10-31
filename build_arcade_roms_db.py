@@ -301,6 +301,7 @@ def run(cmd, fail_ok=False, shell=False, stderr=subprocess.STDOUT, stdout=None):
     return proc
 
 def clean_db(db):
+    db = db.copy()
     db['timestamp'] = 0
     return db
 
