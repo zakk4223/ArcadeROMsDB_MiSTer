@@ -959,6 +959,11 @@
         "md5": "c6839ab702671f8897d75fa0bedac067",
         "size": 1002294
     },
+    "mame/ddcrew.zip": {
+        "fullpath": "mame/ddcrew.zip",
+        "md5": "6e24dfdabf84eb2d41d7598c00377305",
+        "size": 5907879
+    },
     "mame/ddonpach.zip": {
         "fullpath": "mame/ddonpach.zip",
         "md5": "58a82638a2aa7e4e40b32bf365bff17d",
@@ -1608,6 +1613,11 @@
         "fullpath": "mame/halfway.zip",
         "md5": "269fedb85833d5210e177a71efb1aebb",
         "size": 12940571
+    },
+    "mame/hamaway.zip": {
+        "fullpath": "mame/hamaway.zip",
+        "md5": "26bd7ab975e2884d6f61972f0e2cf78d",
+        "size": 1504629
     },
     "mame/hanagumi.zip": {
         "fullpath": "mame/hanagumi.zip",
