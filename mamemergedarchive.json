@@ -189,6 +189,11 @@
         "md5": "0c6585dbfde2121046981a7f724c01aa",
         "size": 32697
     },
+    "history/files/mame/pleiads.zip.~1~": {
+        "fullpath": "history/files/mame/pleiads.zip.~1~",
+        "md5": "f2255924b9b70cd02332d591851251a8",
+        "size": 89573
+    },
     "history/files/mame/puckman.zip.~1~": {
         "fullpath": "history/files/mame/puckman.zip.~1~",
         "md5": "91c09a94e82dc6b0cbece418d568f6e3",
@@ -2596,8 +2601,8 @@
     },
     "mame/pleiads.zip": {
         "fullpath": "mame/pleiads.zip",
-        "md5": "f2255924b9b70cd02332d591851251a8",
-        "size": 89573
+        "md5": "1c46d3ccdf6575dfeef538d88c428102",
+        "size": 74040
     },
     "mame/plusalph.zip": {
         "fullpath": "mame/plusalph.zip",
