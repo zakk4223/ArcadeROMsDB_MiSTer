@@ -7,7 +7,7 @@ import json
 import subprocess
 from typing import Any, Dict, List, TypedDict, Tuple
 from pathlib import Path,PurePosixPath
-from urllib.parse import unquote, urlparse
+from urllib.parse import unquote, urlparse,quote
 
 _print = print
 
@@ -77,7 +77,7 @@ def main():
 def download_rom_local(rom_info, basedir="./"):
     dl_dest = os.path.join(basedir, rom_info['dlpath'])
     dl_dir = os.path.join(basedir, os.path.dirname(rom_info['dlpath']))
-    dl_url = rom_info['url']
+    dl_url = quote(rom_info['url'], safe=':/&=?')
     dl_size = int(rom_info['size'])
     dl_user = os.environ.get('IA_USER', '')
     dl_pass = os.environ.get('IA_PASS', '')
@@ -100,10 +100,12 @@ def download_rom_local(rom_info, basedir="./"):
 def ia_login():
     dl_user = os.environ.get('IA_USER', '')
     dl_pass = os.environ.get('IA_PASS', '')
-    subprocess.run(curl(['-X', 'POST', '--data-raw', f'username={dl_user}&password={dl_pass}&remember=true', 'https://archive.org/account/login']))
+    #seems like it has to run twice to properly login?
+    subprocess.run(curl(['-X', 'POST', '--data-raw', f'username={dl_user}&password={dl_pass}', 'https://archive.org/account/login']))
+    subprocess.run(curl(['-X', 'POST', '--data-raw', f'username={dl_user}&password={dl_pass}', 'https://archive.org/account/login']))
 
-def curl(params: List[str], size=0, verbose=False) -> List[str]:
-    curl_parameters = ['curl', '-L' if verbose else '-sL', '--cookie-jar', './cookie.tmp', '--cookie', './cookie.tmp']
+def curl(params: List[str], size=0, verbose=True) -> List[str]:
+    curl_parameters = ['curl', '-L' if verbose else '-sL', '--location-trusted', '--cookie-jar', './cookie.tmp', '--cookie', './cookie.tmp']
     curl_parameters.extend(os.environ.get('CURL_SECURE', '').split())
     if size > 1_000_000_000:
         curl_parameters.extend(['--header', 'X-Accel-Buffering: no'])

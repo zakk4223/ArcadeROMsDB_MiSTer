@@ -38,6 +38,7 @@ def main():
                 print('Ok')
             else:
                 print("FAILED!")
+                subprocess.run(['cp', temp.name, '/tmp/whatthefuckingfuck.zip'], stderr=subprocess.STDOUT)
                 exit(-1)
         
         print()
