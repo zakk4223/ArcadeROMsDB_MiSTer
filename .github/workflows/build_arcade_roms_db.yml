@@ -26,7 +26,7 @@ jobs:
       run: ./build_hash_db.sh
       env:
         DB_FILE: "mamemergedfallback.json"
-        SOURCE: "mame-merged"
+        SOURCE: "mame-roms-merged_"
         ONESHOT: "1"
     - name: Archive hash DB
       run: ./build_hash_db.sh
