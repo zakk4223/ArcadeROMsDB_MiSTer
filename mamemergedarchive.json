@@ -1634,6 +1634,11 @@
         "md5": "f3c2a581baa4e0688eaac93aabcfe2fd",
         "size": 1120886
     },
+    "mame/fshark.zip": {
+        "fullpath": "mame/fshark.zip",
+        "md5": "51e1dd9f261f0d01ebd7885b67711042",
+        "size": 589530
+    },
     "mame/futspy.zip": {
         "fullpath": "mame/futspy.zip",
         "md5": "ebd42eff9f42a022de62ec15b50c6d21",
