@@ -214,6 +214,26 @@
         "md5": "3841ffa7a77349f650e6a9c78409a7a2",
         "size": 2351568
     },
+    "3do_fz1.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/3do_fz1.zip",
+        "md5": "3d44b0312d32053500a6ee2da595973b",
+        "size": 4746921
+    },
+    "3do_fz10.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/3do_fz10.zip",
+        "md5": "cccfa6fc83f0646f2f3b8655ad5cff1b",
+        "size": 3552131
+    },
+    "3do_gdo101.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/3do_gdo101.zip",
+        "md5": "c8fdaf09429cf71d7e61fbdc8856b349",
+        "size": 1358378
+    },
+    "3do_try.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/3do_try.zip",
+        "md5": "c7122347043b4ea73139231e3e20eeb8",
+        "size": 2460185
+    },
     "3dobios.zip": {
         "fullpath": "MAME ROMs (merged)/3dobios.zip",
         "md5": "3841ffa7a77349f650e6a9c78409a7a2",
@@ -4069,6 +4089,11 @@
         "md5": "1a1eb858d21101b310cb91e88f7aa759",
         "size": 1248722
     },
+    "assist05.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/assist05.zip",
+        "md5": "22682a59417820eaa239dc94451b1cf3",
+        "size": 1195
+    },
     "ast6000.zip": {
         "fullpath": "MAME ROMs (merged)/ast6000.zip",
         "md5": "a64e2f9d4dc5f85e14b7c6cf65b752f2",
@@ -5584,6 +5609,11 @@
         "md5": "170a73f0cb3c8ab9fe847bcb0269ee2c",
         "size": 13978
     },
+    "bbc_cms6502.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/bbc_cms6502.zip",
+        "md5": "9e28b17a83841532058de66bfafa5b56",
+        "size": 17969
+    },
     "bbc_cumana1.zip": {
         "fullpath": "MAME ROMs (merged)/bbc_cumana1.zip",
         "md5": "ab756aa31838cc5355885ed5d8d0f935",
@@ -5608,6 +5638,11 @@
         "fullpath": "MAME ROMs (merged)/bbc_datacentre.zip",
         "md5": "ea65c13684468f49a2bd88caec80f238",
         "size": 40386
+    },
+    "bbc_detalker.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/bbc_detalker.zip",
+        "md5": "b52658953802ea57895ef15dcd6d1d89",
+        "size": 2019
     },
     "bbc_ieee488.zip": {
         "fullpath": "MAME ROMs (merged)/bbc_ieee488.zip",
@@ -14544,6 +14579,11 @@
         "md5": "93aa76e4fc9ac2d6a15afe66a59ffc44",
         "size": 961047
     },
+    "dg20.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/dg20.zip",
+        "md5": "2a0a7ae540c83c0bf1efafe837b209b5",
+        "size": 5432
+    },
     "dg640.zip": {
         "fullpath": "MAME ROMs (merged)/dg640.zip",
         "md5": "4bea26c8593f530378bbf546847f88ea",
@@ -15203,6 +15243,11 @@
         "fullpath": "MAME ROMs (merged)/dmndhrtn.zip",
         "md5": "64ab141075e096369c9db129e9b6f757",
         "size": 410599
+    },
+    "dmndhrtp.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/dmndhrtp.zip",
+        "md5": "37ca6272c124f8930c6c5b7457b35e85",
+        "size": 427270
     },
     "dmndrby.zip": {
         "fullpath": "MAME ROMs (merged)/dmndrby.zip",
@@ -16205,12 +16250,12 @@
         "size": 7541
     },
     "dscbonus.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.283 to v0.284) - Update/dscbonus.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/dscbonus.zip",
         "md5": "aa2f56397fac589ad6840470aa6a09a4",
         "size": 61927
     },
     "dscjkpot.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.283 to v0.284) - Update/dscjkpot.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/dscjkpot.zip",
         "md5": "ab19eb17a59fff2ce422d5d5f02bf792",
         "size": 31761
     },
@@ -16218,6 +16263,11 @@
         "fullpath": "MAME ROMs (merged)/dsd4432.zip",
         "md5": "10a4f9e5c40b0d83004169a201a8d96d",
         "size": 1119
+    },
+    "dsd5217.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/dsd5217.zip",
+        "md5": "c56a4b040d4fdb9e715842f8596e90eb",
+        "size": 21312
     },
     "dsem.zip": {
         "fullpath": "MAME ROMs (merged)/dsem.zip",
@@ -19244,6 +19294,11 @@
         "md5": "dc17ee4bdf3b47c84e57b68bdc3fbd8c",
         "size": 8999
     },
+    "exos201.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/exos201.zip",
+        "md5": "83c4cd45edbfc139132ef6d75c65f166",
+        "size": 19800
+    },
     "exp85.zip": {
         "fullpath": "MAME ROMs (merged)/exp85.zip",
         "md5": "5e64cf0999b174c4165495b513217ebe",
@@ -20645,7 +20700,7 @@
         "size": 3309592
     },
     "foxyruby.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.282 to v0.283) - Update/foxyruby.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/foxyruby.zip",
         "md5": "b80902441a28f152426290fece840f41",
         "size": 1298646
     },
@@ -21698,6 +21753,11 @@
         "fullpath": "MAME ROMs (merged)/gamblra5.zip",
         "md5": "e3c107e438363887b7ca122dfc828a09",
         "size": 661691
+    },
+    "gamebox.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/gamebox.zip",
+        "md5": "b0ef29c740d3ce05ec7c7d614bad4e7e",
+        "size": 854227526
     },
     "gameboy.zip": {
         "fullpath": "MAME ROMs (merged)/gameboy.zip",
@@ -26790,7 +26850,7 @@
         "size": 13184
     },
     "ibsap2.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.283 to v0.284) - Update/ibsap2.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/ibsap2.zip",
         "md5": "4ab4dc954a92f50c9b046561febf8278",
         "size": 1061
     },
@@ -27729,6 +27789,11 @@
         "md5": "ae617bb051723cb7a73198b295cbf882",
         "size": 65765
     },
+    "iris_kbd.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/iris_kbd.zip",
+        "md5": "d6557026a070ea46fcd9011b2246bf06",
+        "size": 939
+    },
     "irisha.zip": {
         "fullpath": "MAME ROMs (merged)/irisha.zip",
         "md5": "2d55147c72acef04acf8f63e66b5225e",
@@ -27990,7 +28055,7 @@
         "size": 2055808
     },
     "ivelultrkb.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.283 to v0.284) - Update/ivelultrkb.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/ivelultrkb.zip",
         "md5": "7819533350afd96a6edf9abda1b3b3cc",
         "size": 841
     },
@@ -32320,9 +32385,9 @@
         "size": 30180
     },
     "kchal.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.282 to v0.283) - Update/kchal.zip",
-        "md5": "f56ceb95ece75a12ec41890fc19c78b0",
-        "size": 75750
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/kchal.zip",
+        "md5": "00120e188e871d1c9543a91473f68b13",
+        "size": 75754
     },
     "kchamp.zip": {
         "fullpath": "MAME ROMs (merged)/kchamp.zip",
@@ -33629,6 +33694,11 @@
         "md5": "abb3816654e01267c7ee1b3bd5f14b55",
         "size": 16781687
     },
+    "lanmao.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/lanmao.zip",
+        "md5": "c59620958f0fb2906a2800e23e79a986",
+        "size": 461443
+    },
     "lanteach.zip": {
         "fullpath": "MAME ROMs (merged)/lanteach.zip",
         "md5": "e3327a10259a2e220ad2eb13138724bf",
@@ -33695,7 +33765,7 @@
         "size": 27336
     },
     "laser3k.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.283 to v0.284) - Update/laser3k.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/laser3k.zip",
         "md5": "3a770635e4526972667b1e6a45a35b91",
         "size": 19925
     },
@@ -34373,6 +34443,21 @@
         "fullpath": "MAME ROMs (merged)/lisa2.zip",
         "md5": "baa19ef6467d358565f6bab06a2b3237",
         "size": 53280
+    },
+    "lisa2fdc.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/lisa2fdc.zip",
+        "md5": "0a9654c310a95c2f9746e806ef865763",
+        "size": 3159
+    },
+    "lisafdc.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/lisafdc.zip",
+        "md5": "19fe276073702db9d9477fc22e2c4675",
+        "size": 3328
+    },
+    "lisavideo.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/lisavideo.zip",
+        "md5": "1b7b4fba63875e49512726d81443501c",
+        "size": 260
     },
     "litelrn.zip": {
         "fullpath": "MAME ROMs (merged)/litelrn.zip",
@@ -38384,6 +38469,11 @@
         "md5": "54d97b646323824487b220c4d668abfc",
         "size": 667502
     },
+    "m4rrun.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/m4rrun.zip",
+        "md5": "2bd0689978e8aa86e91fee8fae688a8e",
+        "size": 928768
+    },
     "m4rsg.zip": {
         "fullpath": "MAME ROMs (merged)/m4rsg.zip",
         "md5": "0a17b77ce592631660311c6f9575a653",
@@ -41049,6 +41139,16 @@
         "md5": "140b3f2bdfce63254783db8d26922264",
         "size": 476822
     },
+    "macxlfdc.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/macxlfdc.zip",
+        "md5": "1d0bcafb55c05c8047d73f55388363e8",
+        "size": 5757
+    },
+    "macxlvideo.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/macxlvideo.zip",
+        "md5": "b780f724f53d6712f900b39e8a72a607",
+        "size": 212
+    },
     "madalien.zip": {
         "fullpath": "MAME ROMs (merged)/madalien.zip",
         "md5": "33f3aac48f2daeca1efc704aef8c9f13",
@@ -42344,6 +42444,11 @@
         "md5": "0777ba7e051dc5920ce61177fb0e92e4",
         "size": 2651903
     },
+    "mcc1.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/mcc1.zip",
+        "md5": "4136a12b6cdf130ad3cb994872205026",
+        "size": 2541
+    },
     "mccpm.zip": {
         "fullpath": "MAME ROMs (merged)/mccpm.zip",
         "md5": "d29890925ffd593f701a9beb6cd80e19",
@@ -43174,6 +43279,11 @@
         "md5": "89b9c1facd66ecdc6f78bab8b8397c29",
         "size": 24671192
     },
+    "mgtmg9.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/mgtmg9.zip",
+        "md5": "45f10381b6d7e0c31153ba44dc5310c6",
+        "size": 35876953
+    },
     "mgzz.zip": {
         "fullpath": "MAME ROMs (merged)/mgzz.zip",
         "md5": "44ab14572166032524a516ff4f71b9d7",
@@ -43555,7 +43665,7 @@
         "size": 302357
     },
     "mir7hgt.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.281 to v0.282) - Update/mir7hgt.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/mir7hgt.zip",
         "md5": "b57c9528eebaafe91e4de547aa6ab4b5",
         "size": 303017
     },
@@ -44489,6 +44599,11 @@
         "md5": "b2cdd3f2ab86bfcefe08f7658afb2c91",
         "size": 2393
     },
+    "modcart.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/modcart.zip",
+        "md5": "da308cbb491f638785464068333b3e88",
+        "size": 2272042
+    },
     "model1io.zip": {
         "fullpath": "MAME ROMs (merged)/model1io.zip",
         "md5": "804ad0e72a9e18b67dfcf630f5b79985",
@@ -45134,6 +45249,11 @@
         "md5": "967ddb070af9b1d4c3ca2d34264db039",
         "size": 3448
     },
+    "mpf1_ssb_ip.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/mpf1_ssb_ip.zip",
+        "md5": "77b24bf75ddcf3361269b395d8061ae2",
+        "size": 4164
+    },
     "mpf1_tva_ip.zip": {
         "fullpath": "MAME ROMs (merged)/mpf1_tva_ip.zip",
         "md5": "1de27059f9a0c7d64e3a00dbaeddd2a9",
@@ -45228,6 +45348,11 @@
         "fullpath": "MAME ROMs (merged)/mr9735_002.zip",
         "md5": "17fcf012011c88d9d1287807daa3f544",
         "size": 542
+    },
+    "mraker.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/mraker.zip",
+        "md5": "0e97f0f7aeed0b7bd4cb4d92432ab25d",
+        "size": 10495
     },
     "mrangbat.zip": {
         "fullpath": "MAME ROMs (merged)/mrangbat.zip",
@@ -49319,6 +49444,11 @@
         "md5": "b611a05a2ce590d61b4d54afdfd07c44",
         "size": 884390
     },
+    "packyts.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/packyts.zip",
+        "md5": "b611a05a2ce590d61b4d54afdfd07c44",
+        "size": 884390
+    },
     "pacland.zip": {
         "fullpath": "MAME ROMs (merged)/pacland.zip",
         "md5": "18653b9df3238209f8ff66c11a7ad813",
@@ -49330,7 +49460,7 @@
         "size": 85829
     },
     "pacmanap.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.283 to v0.284) - Update/pacmanap.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/pacmanap.zip",
         "md5": "8a9a425434b9045c2581f5a6a952a604",
         "size": 187878434
     },
@@ -51049,6 +51179,11 @@
         "md5": "9e0687138b6e6b3b24ef06029ddec96a",
         "size": 6208
     },
+    "pencil2_coleco.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/pencil2_coleco.zip",
+        "md5": "23d937d48010829ec5829e6092a93cd5",
+        "size": 5669
+    },
     "penfan.zip": {
         "fullpath": "MAME ROMs (merged)/penfan.zip",
         "md5": "71fa3926fd290632c2d5cfb6a27047e8",
@@ -51410,7 +51545,7 @@
         "size": 49617258
     },
     "permedia2.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.281 to v0.282) - Update/permedia2.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/permedia2.zip",
         "md5": "cee4642d8bd3c15c3740e5fa51402f9c",
         "size": 138948
     },
@@ -54484,6 +54619,11 @@
         "md5": "9d72cdede7d82b8f96dd1c848a3530f4",
         "size": 16430637
     },
+    "prav8ckb.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/prav8ckb.zip",
+        "md5": "e539569b0bb6fefd683bd8f540660606",
+        "size": 1204
+    },
     "prc28su.zip": {
         "fullpath": "MAME ROMs (merged)/prc28su.zip",
         "md5": "64f355fbff11af10ffe4daf7aa420bfa",
@@ -57368,6 +57508,11 @@
         "fullpath": "MAME ROMs (merged)/relief.zip",
         "md5": "0505b5e08495a53430b00aafb8cd06ef",
         "size": 2493275
+    },
+    "reliefs1.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/reliefs1.zip",
+        "md5": "1ccc41d9f910d672281ac52dbb1b596e",
+        "size": 341009
     },
     "renaiclb.zip": {
         "fullpath": "MAME ROMs (merged)/renaiclb.zip",
@@ -65129,6 +65274,11 @@
         "md5": "f8a4b4f1f3a6d1181b492164fa43cbdd",
         "size": 25397
     },
+    "sgi_ip2.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/sgi_ip2.zip",
+        "md5": "686da95bf7de46b7dad1a20f9c7f9c61",
+        "size": 39027
+    },
     "sgi_ip4.zip": {
         "fullpath": "MAME ROMs (merged)/sgi_ip4.zip",
         "md5": "4e03a3026ca66ec49523e99044b695a1",
@@ -65140,12 +65290,12 @@
         "size": 1233
     },
     "sgi_pm1.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.283 to v0.284) - Update/sgi_pm1.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/sgi_pm1.zip",
         "md5": "54db2ceaf77719518fe4f156673d1730",
         "size": 18125
     },
     "sgi_pm2.zip": {
-        "fullpath": "MAME ROMs (merged) (v0.283 to v0.284) - Update/sgi_pm2.zip",
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/sgi_pm2.zip",
         "md5": "cc0f5839e0b8859fe20c674f27468879",
         "size": 35149
     },
@@ -66138,6 +66288,11 @@
         "fullpath": "MAME ROMs (merged)/sldeluxe.zip",
         "md5": "df177088f57522a67f5da6951917f8b6",
         "size": 1557692
+    },
+    "slegend.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/slegend.zip",
+        "md5": "d28e067bdd7caa476a068928ca567ab0",
+        "size": 50191
     },
     "sleicpin.zip": {
         "fullpath": "MAME ROMs (merged)/sleicpin.zip",
@@ -73004,6 +73159,21 @@
         "md5": "9b42e551a0d987c040bd11d9ac2649de",
         "size": 573
     },
+    "tms320c30.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/tms320c30.zip",
+        "md5": "7cd555e9bbd66770762fd32585100a24",
+        "size": 573
+    },
+    "tms320c31.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/tms320c31.zip",
+        "md5": "9b42e551a0d987c040bd11d9ac2649de",
+        "size": 573
+    },
+    "tms320c32.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/tms320c32.zip",
+        "md5": "51ea9cd95e16737e3b7d0d043d0da461",
+        "size": 620
+    },
     "tmscramb.zip": {
         "fullpath": "MAME ROMs (merged)/tmscramb.zip",
         "md5": "9a85fc97d01848e4bbd0541894eaf1b9",
@@ -78859,6 +79029,11 @@
         "md5": "ee9578c6a262f5b3d0a970d8ff51892f",
         "size": 62769
     },
+    "wwjumbo.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/wwjumbo.zip",
+        "md5": "f129218bf316423618db518b80837a4b",
+        "size": 190764
+    },
     "wwmarine.zip": {
         "fullpath": "MAME ROMs (merged)/wwmarine.zip",
         "md5": "6870c0463c8f0e1f65e836a6ccf63564",
@@ -79118,6 +79293,11 @@
         "fullpath": "MAME ROMs (merged)/xenophob.zip",
         "md5": "46c606a74e9d5019279c984765b9e708",
         "size": 392223
+    },
+    "xetec_c5181.zip": {
+        "fullpath": "MAME ROMs (merged) (v0.284 to v0.285) - Update/xetec_c5181.zip",
+        "md5": "84797994e81d5ed8cd550b6d6b460f19",
+        "size": 3192
     },
     "xevi3dg.zip": {
         "fullpath": "MAME ROMs (merged)/xevi3dg.zip",
