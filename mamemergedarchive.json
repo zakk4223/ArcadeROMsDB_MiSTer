@@ -1764,6 +1764,11 @@
         "md5": "4b37dca7e5b5a0f70d087236f28784fd",
         "size": 15093
     },
+    "mame/grasspin.zip": {
+        "fullpath": "mame/grasspin.zip",
+        "md5": "c027291e51bec50ae6e144571ff01b69",
+        "size": 22861
+    },
     "mame/gravitar.zip": {
         "fullpath": "mame/gravitar.zip",
         "md5": "79c19547778ebcc916c15fce6cdbf1e4",
@@ -3243,6 +3248,11 @@
         "fullpath": "mame/sasissu.zip",
         "md5": "578641e6d4cb62496b987cf462464f1e",
         "size": 18903044
+    },
+    "mame/saturnzi.zip": {
+        "fullpath": "mame/saturnzi.zip",
+        "md5": "1f394cc5a5ee1c893c673a3b4ef49702",
+        "size": 30645
     },
     "mame/sbagman.zip": {
         "fullpath": "mame/sbagman.zip",
