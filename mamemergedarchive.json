@@ -2924,6 +2924,11 @@
         "md5": "3a1f0c2cb49a9b7aab4b9b0e41910b99",
         "size": 195303
     },
+    "mame/pprobe.zip": {
+        "fullpath": "mame/pprobe.zip",
+        "md5": "5667836ac3d878de9140a97279eac943",
+        "size": 39913
+    },
     "mame/prehisle.zip": {
         "fullpath": "mame/prehisle.zip",
         "md5": "467d4a217a8acf525de55bbc157c0321",
@@ -4153,6 +4158,11 @@
         "fullpath": "mame/varth.zip",
         "md5": "42c9356d684aa934168a782035f64645",
         "size": 7250375
+    },
+    "mame/vastar.zip": {
+        "fullpath": "mame/vastar.zip",
+        "md5": "d935e09091188ef66563f739696176de",
+        "size": 104011
     },
     "mame/vball.zip": {
         "fullpath": "mame/vball.zip",
