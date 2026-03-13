@@ -929,6 +929,11 @@
         "md5": "f0ba01aa28c020a59277e4ad8687b957",
         "size": 41080
     },
+    "mame/calibr50.zip": {
+        "fullpath": "mame/calibr50.zip",
+        "md5": "c3030dcd0d295b1a7613259fa6f61277",
+        "size": 2214038
+    },
     "mame/calipso.zip": {
         "fullpath": "mame/calipso.zip",
         "md5": "6b24c0423a1b613600b38683ae031862",
@@ -1114,6 +1119,11 @@
         "md5": "e9933a82a11213c8884a144fcd34b061",
         "size": 113045
     },
+    "mame/cps1mult.zip": {
+        "fullpath": "mame/cps1mult.zip",
+        "md5": "bd3a3ddf71ddee8fc1686caacee213b2",
+        "size": 83812032
+    },
     "mame/crater.zip": {
         "fullpath": "mame/crater.zip",
         "md5": "dcca5d707f10ae1fc936869d42c120ba",
@@ -1283,6 +1293,11 @@
         "fullpath": "mame/devzone.zip",
         "md5": "e55952d0b0575c713d8afc23fb2f0d42",
         "size": 23802
+    },
+    "mame/diamrun.zip": {
+        "fullpath": "mame/diamrun.zip",
+        "md5": "f74be55554f244bb6fca623ef81db011",
+        "size": 42771
     },
     "mame/diehard.zip": {
         "fullpath": "mame/diehard.zip",
