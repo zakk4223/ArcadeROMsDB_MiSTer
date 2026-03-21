@@ -1654,6 +1654,11 @@
         "md5": "f40753e2d83fb55ebfca1121ee285043",
         "size": 138679
     },
+    "mame/frontlin.zip": {
+        "fullpath": "mame/frontlin.zip",
+        "md5": "92f8cebb516e42f4dc6ada8fa56fecd8",
+        "size": 75951
+    },
     "mame/fround.zip": {
         "fullpath": "mame/fround.zip",
         "md5": "f3c2a581baa4e0688eaac93aabcfe2fd",
@@ -3404,6 +3409,11 @@
         "md5": "1b1e221f09317450828f9136730f3444",
         "size": 34903415
     },
+    "mame/sfposeid.zip": {
+        "fullpath": "mame/sfposeid.zip",
+        "md5": "c86db7e2f9458cda40dd901bf7b48e52",
+        "size": 44864
+    },
     "mame/sfz2al.zip": {
         "fullpath": "mame/sfz2al.zip",
         "md5": "9771c9854223523a8454748475cfff2f",
@@ -3958,6 +3968,11 @@
         "fullpath": "mame/timetunl.zip",
         "md5": "d7f7c013206a33e3b2b2f65723a275d2",
         "size": 38601
+    },
+    "mame/tinstar.zip": {
+        "fullpath": "mame/tinstar.zip",
+        "md5": "5203026c03aff81907ee896a7f7bcc43",
+        "size": 87498
     },
     "mame/tmnt.zip": {
         "fullpath": "mame/tmnt.zip",
