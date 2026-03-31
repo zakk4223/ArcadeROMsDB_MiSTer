@@ -2329,6 +2329,11 @@
         "md5": "a8ab4ac122219b7cc2434c7c7f1d58a1",
         "size": 2624257
     },
+    "mame/maniach.zip": {
+        "fullpath": "mame/maniach.zip",
+        "md5": "7de553c5faa4393c04df6d857190abe8",
+        "size": 294919
+    },
     "mame/mappy.zip": {
         "fullpath": "mame/mappy.zip",
         "md5": "1eee78465799cce2635f2f12a82103ba",
@@ -2353,6 +2358,11 @@
         "fullpath": "mame/maruchan.zip",
         "md5": "fc4c989be29b5d2653327c1d20dce0e0",
         "size": 16053585
+    },
+    "mame/matmania.zip": {
+        "fullpath": "mame/matmania.zip",
+        "md5": "a71edd387b45f98997f23ad42125f329",
+        "size": 260546
     },
     "mame/mausuke.zip": {
         "fullpath": "mame/mausuke.zip",
