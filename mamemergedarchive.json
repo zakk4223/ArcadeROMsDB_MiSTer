@@ -1074,6 +1074,11 @@
         "md5": "6b16b12f1d1d60c5f41a32f4bf7f2bb1",
         "size": 4765
     },
+    "mame/complexx.zip": {
+        "fullpath": "mame/complexx.zip",
+        "md5": "b29b6526503db14cd3ec38d96f19fcb4",
+        "size": 33330
+    },
     "mame/congo.zip": {
         "fullpath": "mame/congo.zip",
         "md5": "73905c9be735143c465e42e3a3bb6029",
@@ -3373,6 +3378,11 @@
         "fullpath": "mame/sdi.zip",
         "md5": "4ac82c2321581f58cbe9dfd54a2a8929",
         "size": 2071524
+    },
+    "mame/sdungeon.zip": {
+        "fullpath": "mame/sdungeon.zip",
+        "md5": "41546f525fb88a5464cc3438edc860d8",
+        "size": 64195
     },
     "mame/seabass.zip": {
         "fullpath": "mame/seabass.zip",
