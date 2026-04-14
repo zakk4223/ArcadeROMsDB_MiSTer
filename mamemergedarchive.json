@@ -694,6 +694,11 @@
         "md5": "bd95aa39956fa02fdd5ecbd68f0437c2",
         "size": 6936
     },
+    "mame/baluba.zip": {
+        "fullpath": "mame/baluba.zip",
+        "md5": "c84daa05bf3bcd5faa3fac247068c7b0",
+        "size": 68148
+    },
     "mame/bankp.zip": {
         "fullpath": "mame/bankp.zip",
         "md5": "c9bc04042a050163fd741d12c960f6ab",
@@ -3788,6 +3793,11 @@
         "fullpath": "mame/sstriker.zip",
         "md5": "d9674f02538b555ceb85ed826f613114",
         "size": 1795415
+    },
+    "mame/starforc.zip": {
+        "fullpath": "mame/starforc.zip",
+        "md5": "730c77de9abd5e819cb3f22b0c4eec07",
+        "size": 218050
     },
     "mame/stargate.zip": {
         "fullpath": "mame/stargate.zip",
