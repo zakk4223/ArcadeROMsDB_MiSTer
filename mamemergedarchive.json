@@ -2229,6 +2229,11 @@
         "md5": "948beb69f063300500c9ee5492426568",
         "size": 370512
     },
+    "mame/kram.zip": {
+        "fullpath": "mame/kram.zip",
+        "md5": "84372919568825d1f798475e27755956",
+        "size": 66767
+    },
     "mame/kroozr.zip": {
         "fullpath": "mame/kroozr.zip",
         "md5": "a140974e66898bcd514b448c08e655cf",
