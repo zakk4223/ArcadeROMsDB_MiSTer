@@ -1554,6 +1554,11 @@
         "md5": "ee03949fdc4509a99de8c86c9df025ed",
         "size": 404395
     },
+    "mame/fantasyu.zip": {
+        "fullpath": "mame/fantasyu.zip",
+        "md5": "b85ed54d6c30373c23ff6dad9770d1d0",
+        "size": 92420
+    },
     "mame/fantzn2.zip": {
         "fullpath": "mame/fantzn2.zip",
         "md5": "887bf1d9b597b00f0c8abf1a1578ce84",
@@ -2689,6 +2694,11 @@
         "md5": "c3db8e32d3a8e2218efddce7586b1a9a",
         "size": 74620
     },
+    "mame/nibbler.zip": {
+        "fullpath": "mame/nibbler.zip",
+        "md5": "5fa0bfc59e0adda91ced9a4411cac966",
+        "size": 66254
+    },
     "mame/ninjak.zip": {
         "fullpath": "mame/ninjak.zip",
         "md5": "398b8cc1de805c1e720d6223b3e1a238",
@@ -2828,6 +2838,11 @@
         "fullpath": "mame/passsht.zip",
         "md5": "f6d51e102d3b771d13248f873710271b",
         "size": 1641452
+    },
+    "mame/pballoon.zip": {
+        "fullpath": "mame/pballoon.zip",
+        "md5": "cc5663c6cb4778d7e4dec3386579bac7",
+        "size": 28564
     },
     "mame/pblbeach.zip": {
         "fullpath": "mame/pblbeach.zip",
@@ -3333,6 +3348,16 @@
         "fullpath": "mame/sasissu.zip",
         "md5": "578641e6d4cb62496b987cf462464f1e",
         "size": 18903044
+    },
+    "mame/sasuke.zip": {
+        "fullpath": "mame/sasuke.zip",
+        "md5": "089b397df4eadfb96d84db2a44151786",
+        "size": 18888
+    },
+    "mame/satansat.zip": {
+        "fullpath": "mame/satansat.zip",
+        "md5": "1d48f5ac67d050c1a0e05eef644e8682",
+        "size": 40213
     },
     "mame/saturnzi.zip": {
         "fullpath": "mame/saturnzi.zip",
@@ -4243,6 +4268,11 @@
         "fullpath": "mame/upndown.zip",
         "md5": "6b93cb3200e5a8b09f6a8ca1f37d8e49",
         "size": 85712
+    },
+    "mame/vanguard.zip": {
+        "fullpath": "mame/vanguard.zip",
+        "md5": "55eb0ee2f4f845ca2bc3c35b5e3f66f1",
+        "size": 43705
     },
     "mame/vanvan.zip": {
         "fullpath": "mame/vanvan.zip",
