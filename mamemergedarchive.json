@@ -1229,6 +1229,11 @@
         "md5": "021dc555bacd5aa2c8de94aa4d97a86d",
         "size": 1073132
     },
+    "mame/darius2.zip": {
+        "fullpath": "mame/darius2.zip",
+        "md5": "b5705d6519fcf7289025e3d8a719dd78",
+        "size": 3750066
+    },
     "mame/darkplnt.zip": {
         "fullpath": "mame/darkplnt.zip",
         "md5": "1aeb87dc8bb0d8879c950548d1f76f52",
@@ -2723,6 +2728,11 @@
         "fullpath": "mame/ninjakun.zip",
         "md5": "8173d6b5a67b5179d9fc29a35b1a23d6",
         "size": 47075
+    },
+    "mame/ninjaw.zip": {
+        "fullpath": "mame/ninjaw.zip",
+        "md5": "76e86a155b9188b92530068a1d7f07c4",
+        "size": 3777453
     },
     "mame/nomnlnd.zip": {
         "fullpath": "mame/nomnlnd.zip",
