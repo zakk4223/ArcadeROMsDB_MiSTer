@@ -834,6 +834,11 @@
         "md5": "688720b5ee698d34c6b05cfab7d40448",
         "size": 102494
     },
+    "mame/bloodbro.zip": {
+        "fullpath": "mame/bloodbro.zip",
+        "md5": "4461c74a59abc30e9b9a96e61bc5d50e",
+        "size": 3941511
+    },
     "mame/bloxeed.zip": {
         "fullpath": "mame/bloxeed.zip",
         "md5": "0cb945da42bca5c33d140e455e2366aa",
@@ -1248,6 +1253,11 @@
         "fullpath": "mame/dbreed.zip",
         "md5": "c6839ab702671f8897d75fa0bedac067",
         "size": 1002294
+    },
+    "mame/dcon.zip": {
+        "fullpath": "mame/dcon.zip",
+        "md5": "214aea7a426f10874e8128168f215a1d",
+        "size": 1076725
     },
     "mame/ddcrew.zip": {
         "fullpath": "mame/ddcrew.zip",
