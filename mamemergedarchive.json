@@ -3239,6 +3239,11 @@
         "md5": "d67d592851e8cae73a3e63ee48bae9a3",
         "size": 21119
     },
+    "mame/redearth.zip": {
+        "fullpath": "mame/redearth.zip",
+        "md5": "4e5223d56a2c29640d726a0e1548a352",
+        "size": 46902023
+    },
     "mame/regulus.zip": {
         "fullpath": "mame/regulus.zip",
         "md5": "43dbe59754c11eec3fe5563e47f6c42f",
@@ -3543,6 +3548,11 @@
         "fullpath": "mame/sfa3.zip",
         "md5": "1b1e221f09317450828f9136730f3444",
         "size": 34903415
+    },
+    "mame/sfiii.zip": {
+        "fullpath": "mame/sfiii.zip",
+        "md5": "ac7c6db646d108c65b09e70c195864d8",
+        "size": 39663485
     },
     "mame/sfposeid.zip": {
         "fullpath": "mame/sfposeid.zip",
