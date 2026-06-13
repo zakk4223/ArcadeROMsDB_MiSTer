@@ -179,6 +179,11 @@
         "md5": "c4b8b023b941fe367e4c6cb6a32b2e3a",
         "size": 10156712
     },
+    "history/files/mame/agallet.zip.~1~": {
+        "fullpath": "history/files/mame/agallet.zip.~1~",
+        "md5": "4bf51e9c6736f38aa274a85389a932e5",
+        "size": 7353599
+    },
     "history/files/mame/alcon.zip.~1~": {
         "fullpath": "history/files/mame/alcon.zip.~1~",
         "md5": "f729dc68f5f64a0e26638d8ab8a5ab1e",
@@ -491,8 +496,8 @@
     },
     "mame/agallet.zip": {
         "fullpath": "mame/agallet.zip",
-        "md5": "4bf51e9c6736f38aa274a85389a932e5",
-        "size": 7353599
+        "md5": "bf7fd60198d6d0802b71203aa1e884ce",
+        "size": 7536659
     },
     "mame/airass.zip": {
         "fullpath": "mame/airass.zip",
@@ -2494,6 +2499,11 @@
         "md5": "83121ff758708bf75f2e912b082ecce9",
         "size": 2746384
     },
+    "mame/metmqstr.zip": {
+        "fullpath": "mame/metmqstr.zip",
+        "md5": "5d15b46c4b358f4b37cb8621e621bc82",
+        "size": 8251445
+    },
     "mame/metrocrs.zip": {
         "fullpath": "mame/metrocrs.zip",
         "md5": "ef486bac547210b5a59291a2487081ee",
@@ -3378,6 +3388,11 @@
         "fullpath": "mame/ryukyu.zip",
         "md5": "f09eaa9edee5fffd8ff5571578afcf25",
         "size": 521884
+    },
+    "mame/sailormn.zip": {
+        "fullpath": "mame/sailormn.zip",
+        "md5": "11300bfadbadab1e7d1cde4380150c73",
+        "size": 14459076
     },
     "mame/salamand.zip": {
         "fullpath": "mame/salamand.zip",
