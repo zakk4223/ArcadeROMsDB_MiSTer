@@ -1004,6 +1004,11 @@
         "md5": "acefdc4eab538793a491e4491d090a09",
         "size": 6538790
     },
+    "mame/cbuster.zip": {
+        "fullpath": "mame/cbuster.zip",
+        "md5": "89d60b95aeb0ad9a2a60af3f93ab6e91",
+        "size": 2296366
+    },
     "mame/ccastles.zip": {
         "fullpath": "mame/ccastles.zip",
         "md5": "a1f913523690df1e3b919a240d5139c7",
@@ -3718,6 +3723,11 @@
         "fullpath": "mame/slapshtr.zip",
         "md5": "bb4955fe435dd838b94478e2c0383bdb",
         "size": 65121
+    },
+    "mame/slither.zip": {
+        "fullpath": "mame/slither.zip",
+        "md5": "94b33ff99fedcfe4c8f70c7309b1aeee",
+        "size": 19800
     },
     "mame/smleague.zip": {
         "fullpath": "mame/smleague.zip",
