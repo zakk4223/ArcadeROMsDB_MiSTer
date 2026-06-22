@@ -1739,6 +1739,11 @@
         "md5": "dabecea50d0a512749f6ae240a84ec59",
         "size": 97285
     },
+    "mame/fnkyfish.zip": {
+        "fullpath": "mame/fnkyfish.zip",
+        "md5": "f8d9f4c246658f18d62e1a813d128943",
+        "size": 21260
+    },
     "mame/foodf.zip": {
         "fullpath": "mame/foodf.zip",
         "md5": "a0137699844e060a2d9774d7170e915f",
@@ -2248,6 +2253,11 @@
         "fullpath": "mame/kageki.zip",
         "md5": "44db997bb0b06333f27f283fab261e0b",
         "size": 814855
+    },
+    "mame/kangaroo.zip": {
+        "fullpath": "mame/kangaroo.zip",
+        "md5": "f33ce13f51483b8a4efa5335b5707301",
+        "size": 43830
     },
     "mame/karnov.zip": {
         "fullpath": "mame/karnov.zip",
