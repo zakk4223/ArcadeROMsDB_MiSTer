@@ -1589,6 +1589,11 @@
         "md5": "447e371fae24c70dc42aac4c48004272",
         "size": 82367
     },
+    "mame/esb.zip": {
+        "fullpath": "mame/esb.zip",
+        "md5": "dc5508e52a8999b485aca9028028ea15",
+        "size": 78595
+    },
     "mame/espgal.zip": {
         "fullpath": "mame/espgal.zip",
         "md5": "cb8c76622842d5106b6395e906cbe2c1",
@@ -4058,6 +4063,11 @@
         "fullpath": "mame/starjack.zip",
         "md5": "8d8550fa861fdf5bb6aa8ce3cbaa828d",
         "size": 84583
+    },
+    "mame/starwars.zip": {
+        "fullpath": "mame/starwars.zip",
+        "md5": "2bb43ef98027538e8aedd7a9e830c999",
+        "size": 60310
     },
     "mame/stdragon.zip": {
         "fullpath": "mame/stdragon.zip",
