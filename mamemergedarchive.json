@@ -2234,6 +2234,11 @@
         "md5": "ba6038cc5eee71744f694fb041ff2d72",
         "size": 188793
     },
+    "mame/jrpacman.zip": {
+        "fullpath": "mame/jrpacman.zip",
+        "md5": "500d04203f90cf03f2e95681b5a56d93",
+        "size": 55665
+    },
     "mame/jumpshot.zip": {
         "fullpath": "mame/jumpshot.zip",
         "md5": "0ce2c968672925c40fe0ca5a4724eef9",
@@ -3114,6 +3119,11 @@
         "md5": "eba86b7e96fd130c740e2b94414bed16",
         "size": 39245
     },
+    "mame/plegends.zip": {
+        "fullpath": "mame/plegends.zip",
+        "md5": "b45d6650ed958e97208d5f223b85c705",
+        "size": 18134071
+    },
     "mame/pleiads.zip": {
         "fullpath": "mame/pleiads.zip",
         "md5": "1c46d3ccdf6575dfeef538d88c428102",
@@ -3243,6 +3253,11 @@
         "fullpath": "mame/puyosun.zip",
         "md5": "c8d1ddb7c651ca38c91c8762a5695ae7",
         "size": 22599864
+    },
+    "mame/pwrinst2.zip": {
+        "fullpath": "mame/pwrinst2.zip",
+        "md5": "dc8648b9493cc3b4ac10537f18185e07",
+        "size": 16584475
     },
     "mame/pzloop2.zip": {
         "fullpath": "mame/pzloop2.zip",
