@@ -794,6 +794,11 @@
         "md5": "d704c659f1584dbe9b3719bce10c29b5",
         "size": 35311
     },
+    "mame/biomtoy.zip": {
+        "fullpath": "mame/biomtoy.zip",
+        "md5": "5e01b4021afda77f76472df7b52b2d36",
+        "size": 7786620
+    },
     "mame/bionicc.zip": {
         "fullpath": "mame/bionicc.zip",
         "md5": "d105d78fc89f56ba5cbb9fad97be1b32",
@@ -1483,6 +1488,11 @@
         "fullpath": "mame/ddragon2.zip",
         "md5": "ff2c888c076a51f5563d8f0429148653",
         "size": 1525998
+    },
+    "mame/ddribble.zip": {
+        "fullpath": "mame/ddribble.zip",
+        "md5": "305df66854d66ae3563710ec9abf29a9",
+        "size": 717490
     },
     "mame/ddsom.zip": {
         "fullpath": "mame/ddsom.zip",
@@ -4203,6 +4213,11 @@
         "fullpath": "mame/squaitsa.zip",
         "md5": "6927c9fa456f73cc1fd79a017a96ec64",
         "size": 10936
+    },
+    "mame/squash.zip": {
+        "fullpath": "mame/squash.zip",
+        "md5": "9f89342cd4fc19c8dde109395c985b56",
+        "size": 3208394
     },
     "mame/srumbler.zip": {
         "fullpath": "mame/srumbler.zip",
