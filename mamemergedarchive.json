@@ -969,6 +969,11 @@
         "md5": "f0ba01aa28c020a59277e4ad8687b957",
         "size": 41080
     },
+    "mame/cabal.zip": {
+        "fullpath": "mame/cabal.zip",
+        "md5": "3daf0f966fb556aa1abafef6122673db",
+        "size": 1834925
+    },
     "mame/cadanglr.zip": {
         "fullpath": "mame/cadanglr.zip",
         "md5": "53815d72c1b29b1763b197908abf88ee",
@@ -4468,6 +4473,11 @@
         "fullpath": "mame/theroes.zip",
         "md5": "b8d716ac1113dd4dd761394a83741520",
         "size": 18039070
+    },
+    "mame/thoop.zip": {
+        "fullpath": "mame/thoop.zip",
+        "md5": "9230a12a31a2152d0464b3acbd12077f",
+        "size": 6936227
     },
     "mame/thunderx.zip": {
         "fullpath": "mame/thunderx.zip",
