@@ -2029,6 +2029,11 @@
         "md5": "5ffcaec2048ec7bf856fec2a965f400d",
         "size": 216450
     },
+    "mame/galpanic.zip": {
+        "fullpath": "mame/galpanic.zip",
+        "md5": "c7f20d5c64bc7082c0db8defc75b9ece",
+        "size": 2963927
+    },
     "mame/galxwars.zip": {
         "fullpath": "mame/galxwars.zip",
         "md5": "c9c79bdea83cc9d740977108428f545e",
