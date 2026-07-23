@@ -1469,6 +1469,11 @@
         "md5": "1aeb87dc8bb0d8879c950548d1f76f52",
         "size": 26182
     },
+    "mame/darkseal.zip": {
+        "fullpath": "mame/darkseal.zip",
+        "md5": "40be8cddb8f9f98daddf23834411bd12",
+        "size": 1658520
+    },
     "mame/dbreed.zip": {
         "fullpath": "mame/dbreed.zip",
         "md5": "c6839ab702671f8897d75fa0bedac067",
@@ -4843,6 +4848,11 @@
         "fullpath": "mame/vanvan.zip",
         "md5": "a807969b1657bd8266067a922ddb27f3",
         "size": 35467
+    },
+    "mame/vaportra.zip": {
+        "fullpath": "mame/vaportra.zip",
+        "md5": "88ff1c2a86048aac59de83ad8960fdf0",
+        "size": 1574373
     },
     "mame/varth.zip": {
         "fullpath": "mame/varth.zip",
