@@ -1074,6 +1074,11 @@
         "md5": "a1f913523690df1e3b919a240d5139c7",
         "size": 115872
     },
+    "mame/cchip.zip": {
+        "fullpath": "mame/cchip.zip",
+        "md5": "df6f8a3d83c028a5cb9f2f2be60773f3",
+        "size": 2700
+    },
     "mame/cclimber.zip": {
         "fullpath": "mame/cclimber.zip",
         "md5": "8daa67ee4c18c733b0e8414c04150d5d",
@@ -3199,6 +3204,11 @@
         "md5": "b1ae907970201eecd6d836cae3d4dac9",
         "size": 264557
     },
+    "mame/opwolf.zip": {
+        "fullpath": "mame/opwolf.zip",
+        "md5": "383626edd914a816c7e2a7b1e799da48",
+        "size": 2025713
+    },
     "mame/orbitron.zip": {
         "fullpath": "mame/orbitron.zip",
         "md5": "627b95d43a516e2f6ba4cefbc42b427d",
@@ -3298,6 +3308,11 @@
         "fullpath": "mame/pblbeach.zip",
         "md5": "7dfa364e6bf1907e89157fb06ce0b009",
         "size": 13909385
+    },
+    "mame/pcktgal.zip": {
+        "fullpath": "mame/pcktgal.zip",
+        "md5": "a8f0f272b30d30d2218055f6bff539ce",
+        "size": 409488
     },
     "mame/pclub2.zip": {
         "fullpath": "mame/pclub2.zip",
