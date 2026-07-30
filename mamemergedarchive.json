@@ -519,6 +519,11 @@
         "md5": "9e5749088be219892db0f1f1bcb34b50",
         "size": 1275019
     },
+    "mame/airwolf.zip": {
+        "fullpath": "mame/airwolf.zip",
+        "md5": "a740fb5ce1a6e744b90cda88de7cf5b4",
+        "size": 273433
+    },
     "mame/ajax.zip": {
         "fullpath": "mame/ajax.zip",
         "md5": "75c45deb49358f274a1393a1a2c47dd0",
@@ -1964,6 +1969,11 @@
         "md5": "8ea2b1c186af5565beb58bd457e2995a",
         "size": 213156
     },
+    "mame/flashgal.zip": {
+        "fullpath": "mame/flashgal.zip",
+        "md5": "c6570443098d6a03985ccd04b78a455c",
+        "size": 112233
+    },
     "mame/flicky.zip": {
         "fullpath": "mame/flicky.zip",
         "md5": "8524ec54ea8ab3f7104fdaf6cccd045d",
@@ -2243,6 +2253,11 @@
         "fullpath": "mame/gwarrior.zip",
         "md5": "50d2f6a2d84a1d834589f861886644e7",
         "size": 126732
+    },
+    "mame/gyrodine.zip": {
+        "fullpath": "mame/gyrodine.zip",
+        "md5": "3b9d2a1938343420ffc29bd315a703a2",
+        "size": 73363
     },
     "mame/gyruss.zip": {
         "fullpath": "mame/gyruss.zip",
@@ -2688,6 +2703,11 @@
         "fullpath": "mame/ldrun4.zip",
         "md5": "ea85b0a72da8ff60706c1e3ffe4353a1",
         "size": 85203
+    },
+    "mame/legend.zip": {
+        "fullpath": "mame/legend.zip",
+        "md5": "f71677983ea423a8626385c8984c4f66",
+        "size": 133545
     },
     "mame/legion.zip": {
         "fullpath": "mame/legion.zip",
@@ -3709,6 +3729,11 @@
         "md5": "91f375fcc42208eb4ef923197bdbc8d7",
         "size": 754327
     },
+    "mame/repulse.zip": {
+        "fullpath": "mame/repulse.zip",
+        "md5": "58dea67b34fd6ea04d599aacbfef7a48",
+        "size": 270487
+    },
     "mame/rescue.zip": {
         "fullpath": "mame/rescue.zip",
         "md5": "2f86ad09657344d3ffe20f30657068b1",
@@ -4333,6 +4358,11 @@
         "fullpath": "mame/squash.zip",
         "md5": "9f89342cd4fc19c8dde109395c985b56",
         "size": 3208394
+    },
+    "mame/srdmissn.zip": {
+        "fullpath": "mame/srdmissn.zip",
+        "md5": "08d91f91eeb4d569a39c3b1ad9e275f1",
+        "size": 123363
     },
     "mame/srmvs.zip": {
         "fullpath": "mame/srmvs.zip",
