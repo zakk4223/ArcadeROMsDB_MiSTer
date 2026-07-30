@@ -1784,6 +1784,11 @@
         "md5": "05ae6735e31a2a7673b97ad1f42ee563",
         "size": 3753525
     },
+    "mame/edrandy.zip": {
+        "fullpath": "mame/edrandy.zip",
+        "md5": "b253da65319fa6be79b3bafe38abcaa8",
+        "size": 4132958
+    },
     "mame/eeekk.zip": {
         "fullpath": "mame/eeekk.zip",
         "md5": "8f6cc22620d373e4e7ac2b0803166626",
@@ -3753,6 +3758,11 @@
         "fullpath": "mame/robocop.zip",
         "md5": "91948246c9ab39465b8ef6947e6afca2",
         "size": 1495291
+    },
+    "mame/robocop2.zip": {
+        "fullpath": "mame/robocop2.zip",
+        "md5": "77133be02c8790adaa6b80afca3b3274",
+        "size": 3108259
     },
     "mame/robotron.zip": {
         "fullpath": "mame/robotron.zip",
