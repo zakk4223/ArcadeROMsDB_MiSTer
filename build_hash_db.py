@@ -230,7 +230,7 @@ def query_roms(source: str) -> Dict[str, int]:
             continue
 
         match = regex.match(line.lower())
-        if not match:
+        if not match or '(non-merged)' in line:
             continue
 
         roms[match.group(1)] = int(match.group(2))
