@@ -99,6 +99,8 @@ def process_with_metadata_query(source: str, interrupt_handler: InterruptHandler
         if source_dir is not None and not rom.startswith(source_dir):
             print('Skip: ' + rom)
             continue
+        if '(non-merged)' in rom:
+            continue
 
         print(rom if uniq_path else os.path.basename(rom))
         print(uniq_path)
