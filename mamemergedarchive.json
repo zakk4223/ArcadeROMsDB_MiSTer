@@ -219,6 +219,11 @@
         "md5": "d69986ec47e4c189d20aece0b2930430",
         "size": 174485
     },
+    "history/files/mame/asteroid.zip.~1~": {
+        "fullpath": "history/files/mame/asteroid.zip.~1~",
+        "md5": "895c28da183ce25c3f1ca95c55291ceb",
+        "size": 53949
+    },
     "history/files/mame/atetris.zip.~1~": {
         "fullpath": "history/files/mame/atetris.zip.~1~",
         "md5": "7d3662f2009220260825a949788fbe74",
@@ -1791,8 +1796,8 @@
     },
     "mame/asteroid.zip": {
         "fullpath": "mame/asteroid.zip",
-        "md5": "895c28da183ce25c3f1ca95c55291ceb",
-        "size": 53949
+        "md5": "9154519d0a293d1492a01adbb0be004c",
+        "size": 58123
     },
     "mame/astorm.zip": {
         "fullpath": "mame/astorm.zip",
