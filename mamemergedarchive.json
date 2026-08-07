@@ -2399,6 +2399,11 @@
         "md5": "945894210b2854808942dbaae3498741",
         "size": 8724
     },
+    "mame/cfboy0a1.zip": {
+        "fullpath": "mame/cfboy0a1.zip",
+        "md5": "999a4d66e0b6ad304d1625f47dcd2760",
+        "size": 18313
+    },
     "mame/cfghtice.zip": {
         "fullpath": "mame/cfghtice.zip",
         "md5": "4e538006c61cf63fe075aefdb83af010",
@@ -2568,6 +2573,11 @@
         "fullpath": "mame/cobracom.zip",
         "md5": "801e572c3ac8bf692f8d6457a8f07769",
         "size": 592462
+    },
+    "mame/cocean1a.zip": {
+        "fullpath": "mame/cocean1a.zip",
+        "md5": "cbe33ba2dc256d9f04f2f9d18625df9a",
+        "size": 16982
     },
     "mame/colmns97.zip": {
         "fullpath": "mame/colmns97.zip",
