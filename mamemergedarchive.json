@@ -4839,6 +4839,16 @@
         "md5": "491814484cd561292bed52b1f41e9e79",
         "size": 1463572
     },
+    "mame/rbisland.zip": {
+        "fullpath": "mame/rbisland.zip",
+        "md5": "5339607e6e454c43d59d72f05d01802f",
+        "size": 1260473
+    },
+    "mame/rbislande.zip": {
+        "fullpath": "mame/rbislande.zip",
+        "md5": "f9d77231d7959f5560d57b5e42302dc8",
+        "size": 451236
+    },
     "mame/reactor.zip": {
         "fullpath": "mame/reactor.zip",
         "md5": "4b60930f64b70b1c6df5e59dd8863f75",
@@ -5763,6 +5773,11 @@
         "fullpath": "mame/theroes.zip",
         "md5": "b8d716ac1113dd4dd761394a83741520",
         "size": 18039070
+    },
+    "mame/thndrx2.zip": {
+        "fullpath": "mame/thndrx2.zip",
+        "md5": "9f67c2c0916dbcede969c7371d73a64a",
+        "size": 1234882
     },
     "mame/thoop.zip": {
         "fullpath": "mame/thoop.zip",
