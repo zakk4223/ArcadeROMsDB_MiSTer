@@ -5594,6 +5594,11 @@
         "md5": "ea598d5a13af4599c40eee8255c76e97",
         "size": 10123058
     },
+    "mame/startrek.zip": {
+        "fullpath": "mame/startrek.zip",
+        "md5": "8efc604b3375727dc2cb428c307aed32",
+        "size": 43999
+    },
     "mame/starwars.zip": {
         "fullpath": "mame/starwars.zip",
         "md5": "2bb43ef98027538e8aedd7a9e830c999",
@@ -5699,6 +5704,11 @@
         "md5": "9abe5c25831ce71e4d619ccd918bc1be",
         "size": 39297
     },
+    "mame/tacscan.zip": {
+        "fullpath": "mame/tacscan.zip",
+        "md5": "fde88734d5c7c7f0e25c982d43663387",
+        "size": 34249
+    },
     "mame/tankbatt.zip": {
         "fullpath": "mame/tankbatt.zip",
         "md5": "8ff8e0fd2607cd518c5b0a7b28e7406c",
@@ -5788,6 +5798,11 @@
         "fullpath": "mame/thndrx2.zip",
         "md5": "9f67c2c0916dbcede969c7371d73a64a",
         "size": 1234882
+    },
+    "mame/thndzone.zip": {
+        "fullpath": "mame/thndzone.zip",
+        "md5": "b2e779f382dc20179b7bb239af0629e1",
+        "size": 4835847
     },
     "mame/thoop.zip": {
         "fullpath": "mame/thoop.zip",
