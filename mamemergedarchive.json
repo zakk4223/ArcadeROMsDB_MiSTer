@@ -944,6 +944,11 @@
         "md5": "28b08130e05140ef65369ff759884482",
         "size": 210841
     },
+    "history/files/mame/gijoe.zip.~1~": {
+        "fullpath": "history/files/mame/gijoe.zip.~1~",
+        "md5": "32382996716c145f70e87611717def6f",
+        "size": 5640194
+    },
     "history/files/mame/gng.zip.~1~": {
         "fullpath": "history/files/mame/gng.zip.~1~",
         "md5": "a7c67ffa13b1e15428602419b49f72f6",
@@ -3258,6 +3263,11 @@
         "fullpath": "mame/gigawing.zip",
         "md5": "bda236486d963b8fa7d806c6af9f87e4",
         "size": 16442419
+    },
+    "mame/gijoe.zip": {
+        "fullpath": "mame/gijoe.zip",
+        "md5": "32382996716c145f70e87611717def6f",
+        "size": 5640194
     },
     "mame/glfgreat.zip": {
         "fullpath": "mame/glfgreat.zip",
