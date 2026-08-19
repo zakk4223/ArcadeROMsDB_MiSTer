@@ -2899,6 +2899,11 @@
         "md5": "628ef6e92a2126b82a4543f6caa130d1",
         "size": 297480
     },
+    "mame/dlair.zip": {
+        "fullpath": "mame/dlair.zip",
+        "md5": "2cf5a8ee04130a9a4a54094dde0361b0",
+        "size": 171078
+    },
     "mame/dmnfrnt.zip": {
         "fullpath": "mame/dmnfrnt.zip",
         "md5": "1c7865389ca921a2e1e60b84d98d321f",
@@ -5608,6 +5613,11 @@
         "fullpath": "mame/sosterm.zip",
         "md5": "b9810b244b2197d7b6fdb6f1081f34a8",
         "size": 31479
+    },
+    "mame/spaceace.zip": {
+        "fullpath": "mame/spaceace.zip",
+        "md5": "7dd5967015245f8aefe8d2a3858554c9",
+        "size": 107683
     },
     "mame/spacecr.zip": {
         "fullpath": "mame/spacecr.zip",
