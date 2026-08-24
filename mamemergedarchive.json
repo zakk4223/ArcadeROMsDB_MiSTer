@@ -2369,6 +2369,16 @@
         "md5": "265cef74f99c194ca2063af08164db22",
         "size": 27192
     },
+    "mame/champbas.zip": {
+        "fullpath": "mame/champbas.zip",
+        "md5": "f66abcaec2cd12ff340c84265a6bc5e5",
+        "size": 135398
+    },
+    "mame/champbb2.zip": {
+        "fullpath": "mame/champbb2.zip",
+        "md5": "6e96a7f4717bef857994ea3f83219a79",
+        "size": 118602
+    },
     "mame/chelnov.zip": {
         "fullpath": "mame/chelnov.zip",
         "md5": "2c6395578f1e3f17930274bb9a39ec81",
@@ -3133,6 +3143,16 @@
         "fullpath": "mame/exctleag.zip",
         "md5": "99ece4febb60d1efec1ff9e4b9ac3508",
         "size": 637222
+    },
+    "mame/exctscc2.zip": {
+        "fullpath": "mame/exctscc2.zip",
+        "md5": "2b1e8f88034ea5f57e1d248e3bfd72c6",
+        "size": 64189
+    },
+    "mame/exctsccr.zip": {
+        "fullpath": "mame/exctsccr.zip",
+        "md5": "a67f744f9014cc1fbe70e70c93492246",
+        "size": 208129
     },
     "mame/exedexes.zip": {
         "fullpath": "mame/exedexes.zip",
@@ -5958,6 +5978,11 @@
         "fullpath": "mame/tacscan.zip",
         "md5": "fde88734d5c7c7f0e25c982d43663387",
         "size": 34249
+    },
+    "mame/talbot.zip": {
+        "fullpath": "mame/talbot.zip",
+        "md5": "6519780a2869cabb544fc4acbe9d16ec",
+        "size": 24730
     },
     "mame/tankbatt.zip": {
         "fullpath": "mame/tankbatt.zip",
