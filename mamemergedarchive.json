@@ -5079,6 +5079,16 @@
         "md5": "93ccda43e3846dc5c15e16de856b8e74",
         "size": 3454526
     },
+    "mame/raiden2.zip": {
+        "fullpath": "mame/raiden2.zip",
+        "md5": "59659b9d062f48661d6bf0a2e9b231c0",
+        "size": 23510616
+    },
+    "mame/raidendx.zip": {
+        "fullpath": "mame/raidendx.zip",
+        "md5": "25532740c0f6f9942bac18e700a26d52",
+        "size": 18253435
+    },
     "mame/raiders5.zip": {
         "fullpath": "mame/raiders5.zip",
         "md5": "a9b5405237afd3f63c1c9242be9076c4",
