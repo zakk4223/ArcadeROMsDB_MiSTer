@@ -2344,6 +2344,11 @@
         "md5": "46c29b310f33a6ecacaaa2011fa2d57e",
         "size": 86196
     },
+    "mame/cexplore.zip": {
+        "fullpath": "mame/cexplore.zip",
+        "md5": "19697abd26ddc8682b75b07428cb6486",
+        "size": 32575
+    },
     "mame/cfboy0a1.zip": {
         "fullpath": "mame/cfboy0a1.zip",
         "md5": "999a4d66e0b6ad304d1625f47dcd2760",
@@ -2669,6 +2674,11 @@
         "md5": "fb90a51fc809526c25813318157108de",
         "size": 17156
     },
+    "mame/ctisland.zip": {
+        "fullpath": "mame/ctisland.zip",
+        "md5": "afd0655800db23ac6b5c5ade859c67fb",
+        "size": 55702
+    },
     "mame/ctornado.zip": {
         "fullpath": "mame/ctornado.zip",
         "md5": "23075be9570bd206d064a473432eb834",
@@ -2708,6 +2718,11 @@
         "fullpath": "mame/cyclshtg.zip",
         "md5": "45aed9011b57502d7ffd20bc16eccf69",
         "size": 233507
+    },
+    "mame/czeroize.zip": {
+        "fullpath": "mame/czeroize.zip",
+        "md5": "9b6a793924475b77409b9a756b28859c",
+        "size": 25175
     },
     "mame/danchih.zip": {
         "fullpath": "mame/danchih.zip",
@@ -2838,6 +2853,11 @@
         "fullpath": "mame/decodark.zip",
         "md5": "8b114aea1046e0677b818ae137009181",
         "size": 2341953
+    },
+    "mame/decomult.zip": {
+        "fullpath": "mame/decomult.zip",
+        "md5": "97d1031057db864f9674baa59a47d49d",
+        "size": 455102
     },
     "mame/defender.zip": {
         "fullpath": "mame/defender.zip",
