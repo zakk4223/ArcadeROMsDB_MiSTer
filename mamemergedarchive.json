@@ -4219,6 +4219,11 @@
         "md5": "0750d686fd50d5fa3884d1b3f77cc9e3",
         "size": 471410
     },
+    "mame/marblmd2.zip": {
+        "fullpath": "mame/marblmd2.zip",
+        "md5": "c48c3bd379bbc501fce94aafe2725dbb",
+        "size": 909281
+    },
     "mame/mario.zip": {
         "fullpath": "mame/mario.zip",
         "md5": "53cb3cb8c5ff1ae1275929e157ef337b",
@@ -4753,6 +4758,11 @@
         "fullpath": "mame/passsht.zip",
         "md5": "f6d51e102d3b771d13248f873710271b",
         "size": 1641452
+    },
+    "mame/pbaction.zip": {
+        "fullpath": "mame/pbaction.zip",
+        "md5": "2aa25052bde7b4e85c19fc1088028b56",
+        "size": 244787
     },
     "mame/pballoon.zip": {
         "fullpath": "mame/pballoon.zip",
