@@ -1844,6 +1844,11 @@
         "md5": "2a27bfc2bd8e70274d82cada76a53bb5",
         "size": 692236
     },
+    "mame/arkarea.zip": {
+        "fullpath": "mame/arkarea.zip",
+        "md5": "4bce43dc031a0e59d0a03406233f9436",
+        "size": 175681
+    },
     "mame/arknoid2.zip": {
         "fullpath": "mame/arknoid2.zip",
         "md5": "e81c6630c279914eff92105c25f2fb19",
@@ -4384,6 +4389,11 @@
         "md5": "862c57e0f8a16359970f948c6b64e991",
         "size": 618139
     },
+    "mame/mnight.zip": {
+        "fullpath": "mame/mnight.zip",
+        "md5": "20bbcedcbad305561f4e6893ac6e93c9",
+        "size": 169769
+    },
     "mame/mooncrst.zip": {
         "fullpath": "mame/mooncrst.zip",
         "md5": "224df3b910f94e389c1fb602dc0b3c9e",
@@ -4594,6 +4604,11 @@
         "md5": "398b8cc1de805c1e720d6223b3e1a238",
         "size": 2138923
     },
+    "mame/ninjakd2.zip": {
+        "fullpath": "mame/ninjakd2.zip",
+        "md5": "fa3908065af89cdfba737028c68e882e",
+        "size": 446226
+    },
     "mame/ninjakun.zip": {
         "fullpath": "mame/ninjakun.zip",
         "md5": "8173d6b5a67b5179d9fc29a35b1a23d6",
@@ -4653,6 +4668,11 @@
         "fullpath": "mame/olds.zip",
         "md5": "67f019032372aa7659b6fb2b0d842822",
         "size": 23624163
+    },
+    "mame/omegaf.zip": {
+        "fullpath": "mame/omegaf.zip",
+        "md5": "b49e6f0665f21aa0cf01f17ee9d17c26",
+        "size": 540306
     },
     "mame/onna34ro.zip": {
         "fullpath": "mame/onna34ro.zip",
@@ -5253,6 +5273,11 @@
         "fullpath": "mame/robocop2.zip",
         "md5": "77133be02c8790adaa6b80afca3b3274",
         "size": 3108259
+    },
+    "mame/robokid.zip": {
+        "fullpath": "mame/robokid.zip",
+        "md5": "f528e1024219988ded8780bf8856782d",
+        "size": 803190
     },
     "mame/robotron.zip": {
         "fullpath": "mame/robotron.zip",
