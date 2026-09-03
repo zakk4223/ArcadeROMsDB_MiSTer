@@ -3154,6 +3154,11 @@
         "md5": "447e371fae24c70dc42aac4c48004272",
         "size": 82367
     },
+    "mame/eprom.zip": {
+        "fullpath": "mame/eprom.zip",
+        "md5": "77a962babcf39594cf8ed4761f1612fe",
+        "size": 1020574
+    },
     "mame/esb.zip": {
         "fullpath": "mame/esb.zip",
         "md5": "dc5508e52a8999b485aca9028028ea15",
