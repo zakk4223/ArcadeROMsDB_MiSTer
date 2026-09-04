@@ -1974,6 +1974,11 @@
         "md5": "bd95aa39956fa02fdd5ecbd68f0437c2",
         "size": 6936
     },
+    "mame/ballbros.zip": {
+        "fullpath": "mame/ballbros.zip",
+        "md5": "965239e3afbfac5f603f8f00aa13c2d0",
+        "size": 1142385
+    },
     "mame/baluba.zip": {
         "fullpath": "mame/baluba.zip",
         "md5": "c84daa05bf3bcd5faa3fac247068c7b0",
@@ -3474,6 +3479,11 @@
         "md5": "321baed3315ec62b8b82776122a641be",
         "size": 3711209
     },
+    "mame/gigandes.zip": {
+        "fullpath": "mame/gigandes.zip",
+        "md5": "b6a8887c06bec5a6f9a530e53e473262",
+        "size": 1611957
+    },
     "mame/gigawing.zip": {
         "fullpath": "mame/gigawing.zip",
         "md5": "bda236486d963b8fa7d806c6af9f87e4",
@@ -3889,6 +3899,11 @@
         "md5": "00922e67345628aa08fc9618c01d8abd",
         "size": 77318178
     },
+    "mame/jojoba.zip": {
+        "fullpath": "mame/jojoba.zip",
+        "md5": "29365a62a4c967c0bec803f067b4bcc7",
+        "size": 79394785
+    },
     "mame/journey.zip": {
         "fullpath": "mame/journey.zip",
         "md5": "c1ced51ec0f67842a6f5b8d793245238",
@@ -4078,6 +4093,11 @@
         "fullpath": "mame/kurufev.zip",
         "md5": "8489d224631ca91adcbb18b4bdd350ac",
         "size": 19691175
+    },
+    "mame/kyustrkr.zip": {
+        "fullpath": "mame/kyustrkr.zip",
+        "md5": "1c826ffc3fb1e36c37e755522400525e",
+        "size": 475395
     },
     "mame/ladybug.zip": {
         "fullpath": "mame/ladybug.zip",
@@ -6039,6 +6059,11 @@
         "md5": "090279e43fa0cd762ee0ffa0daabe4ff",
         "size": 698481
     },
+    "mame/superman.zip": {
+        "fullpath": "mame/superman.zip",
+        "md5": "7a951c8dea7f85ea06d87c7b1eda7ea7",
+        "size": 1265419
+    },
     "mame/superpac.zip": {
         "fullpath": "mame/superpac.zip",
         "md5": "fd36651ed185da1c1ea0b27c94b4177c",
@@ -6418,6 +6443,11 @@
         "fullpath": "mame/twincobr.zip",
         "md5": "0a97af9ab25507781ecb6b5c672b202c",
         "size": 685694
+    },
+    "mame/twinhawk.zip": {
+        "fullpath": "mame/twinhawk.zip",
+        "md5": "b3d6e25b150e2c83061c85c845eab73d",
+        "size": 957157
     },
     "mame/twotiger.zip": {
         "fullpath": "mame/twotiger.zip",
