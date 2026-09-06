@@ -2209,6 +2209,11 @@
         "md5": "99723a27193ec8ca3c69dfcd40005889",
         "size": 77335
     },
+    "mame/btlkroad.zip": {
+        "fullpath": "mame/btlkroad.zip",
+        "md5": "c95cb89f50a5e42c8c8ece39cf55ed7b",
+        "size": 4400930
+    },
     "mame/bubbles.zip": {
         "fullpath": "mame/bubbles.zip",
         "md5": "5f06a97a0e501d16b5a44d28b5355b2b",
@@ -3593,6 +3598,11 @@
         "fullpath": "mame/gulunpa.zip",
         "md5": "7560ac71ffd13abaf5bedbc64a94cf54",
         "size": 462130
+    },
+    "mame/gunbird.zip": {
+        "fullpath": "mame/gunbird.zip",
+        "md5": "db682df957cb02d629437ef5b81534e2",
+        "size": 4997355
     },
     "mame/gunbird2.zip": {
         "fullpath": "mame/gunbird2.zip",
@@ -5384,6 +5394,11 @@
         "md5": "f09eaa9edee5fffd8ff5571578afcf25",
         "size": 521884
     },
+    "mame/s1945.zip": {
+        "fullpath": "mame/s1945.zip",
+        "md5": "bbf14688dec2567bbda41eba318625e6",
+        "size": 10983783
+    },
     "mame/s1945ii.zip": {
         "fullpath": "mame/s1945ii.zip",
         "md5": "bcd26a2ff28dc9b1f8b9b2f9cc199173",
@@ -5403,6 +5418,11 @@
         "fullpath": "mame/salamand.zip",
         "md5": "6cedf97abc26ec1fbeb7fd394ae0a8bc",
         "size": 835260
+    },
+    "mame/samuraia.zip": {
+        "fullpath": "mame/samuraia.zip",
+        "md5": "84e6a01cd4238574fb0c0cf7de67242a",
+        "size": 3210319
     },
     "mame/sandor.zip": {
         "fullpath": "mame/sandor.zip",
@@ -6168,6 +6188,11 @@
         "fullpath": "mame/tempest.zip",
         "md5": "a6f420b603781ac28f7d24057c022d80",
         "size": 54688
+    },
+    "mame/tengai.zip": {
+        "fullpath": "mame/tengai.zip",
+        "md5": "6801d144e4c16c947ceb666d87fb9821",
+        "size": 8043379
     },
     "mame/terracre.zip": {
         "fullpath": "mame/terracre.zip",
