@@ -3164,6 +3164,11 @@
         "md5": "447e371fae24c70dc42aac4c48004272",
         "size": 82367
     },
+    "mame/enduror.zip": {
+        "fullpath": "mame/enduror.zip",
+        "md5": "ad6050d17e33e786860b031ce95dbc22",
+        "size": 1615683
+    },
     "mame/eprom.zip": {
         "fullpath": "mame/eprom.zip",
         "md5": "77a962babcf39594cf8ed4761f1612fe",
@@ -5653,6 +5658,11 @@
         "fullpath": "mame/shanhigw.zip",
         "md5": "1ad26295519599f95c9b640d591a6539",
         "size": 3003171
+    },
+    "mame/sharrier.zip": {
+        "fullpath": "mame/sharrier.zip",
+        "md5": "37cff5edb6248af028357420fbcce3f8",
+        "size": 784744
     },
     "mame/shdancer.zip": {
         "fullpath": "mame/shdancer.zip",
