@@ -2099,6 +2099,11 @@
         "md5": "3d5773a9f7be4c8b60bf5944badf76d2",
         "size": 1017737
     },
+    "mame/blkheart.zip": {
+        "fullpath": "mame/blkheart.zip",
+        "md5": "fc71b7cb7f7130264121e538ff395f9b",
+        "size": 1201719
+    },
     "mame/blkhole.zip": {
         "fullpath": "mame/blkhole.zip",
         "md5": "1239158727cfbbb4deabaa9326f72c9b",
@@ -4684,6 +4689,11 @@
         "md5": "cfde68de58566e4f29c6f21f7a2e7d7d",
         "size": 5167781
     },
+    "mame/nmk004.zip": {
+        "fullpath": "mame/nmk004.zip",
+        "md5": "f70b65623a99abd278f88707c3700b32",
+        "size": 3556
+    },
     "mame/nomnlnd.zip": {
         "fullpath": "mame/nomnlnd.zip",
         "md5": "9693c73538548517467166426f5badb2",
@@ -6193,6 +6203,11 @@
         "fullpath": "mame/tazmania.zip",
         "md5": "e6fbdcde7fe36d0ef9a6423de3836f0e",
         "size": 88138
+    },
+    "mame/tdragon.zip": {
+        "fullpath": "mame/tdragon.zip",
+        "md5": "7bbad1d01682dff5e206c43f88cc30ae",
+        "size": 2534965
     },
     "mame/techbowl.zip": {
         "fullpath": "mame/techbowl.zip",
