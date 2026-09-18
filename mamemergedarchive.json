@@ -2144,6 +2144,11 @@
         "md5": "0cb945da42bca5c33d140e455e2366aa",
         "size": 1075471
     },
+    "mame/blstroid.zip": {
+        "fullpath": "mame/blstroid.zip",
+        "md5": "358500eb430d403d9e5f5da2e500143f",
+        "size": 1100684
+    },
     "mame/blueprnt.zip": {
         "fullpath": "mame/blueprnt.zip",
         "md5": "f602e40ca391e5232226637ca6a50e54",
@@ -6703,6 +6708,11 @@
         "fullpath": "mame/wacko.zip",
         "md5": "156014e29cdd84046d0c0d149413b4d1",
         "size": 40532
+    },
+    "mame/wardner.zip": {
+        "fullpath": "mame/wardner.zip",
+        "md5": "d1a34e75013402a5f88405f2a55881b2",
+        "size": 475897
     },
     "mame/warofbug.zip": {
         "fullpath": "mame/warofbug.zip",
