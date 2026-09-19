@@ -31,6 +31,7 @@
 	},
 	"mra": {
 		"https://github.com/MiSTer-devel/Distribution_MiSTer/archive/refs/heads/main.zip": "Distribution_MiSTer-main/_Arcade/*",
+		"https://github.com/blahm1d/MiSTer-cores/archive/refs/heads/main.zip": "MiSTer-cores-main/_Arcade/_blahm1d/*",
 		"https://github.com/jotego/jtcores_mister/archive/refs/heads/main.zip": "jtcores_mister-main/_Arcade/*",
 		"https://github.com/theypsilon/Unofficial_Distribution_MiSTer/archive/refs/heads/main.zip": "Unofficial_Distribution_MiSTer-main/_Arcade/*",
 		"https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/archive/refs/heads/main.zip": "Distribution-MiSTerFPGA-develop/_Arcade/*",
