@@ -4639,6 +4639,11 @@
         "md5": "41f3b85edc40ef1b5843e62db3c37eff",
         "size": 389
     },
+    "mame/namco53.zip": {
+        "fullpath": "mame/namco53.zip",
+        "md5": "0bcfb883e27939391f0d7e0acf179ba1",
+        "size": 675
+    },
     "mame/namco54.zip": {
         "fullpath": "mame/namco54.zip",
         "md5": "705edf0e055cd27264ce2a5828b354f2",
@@ -5013,6 +5018,11 @@
         "fullpath": "mame/polaris.zip",
         "md5": "52c53a7c3cc50db08db0d7f5f90b4659",
         "size": 24974
+    },
+    "mame/polepos.zip": {
+        "fullpath": "mame/polepos.zip",
+        "md5": "a5a7958cfa55b319e95cbabb9b36c218",
+        "size": 241850
     },
     "mame/polyplay.zip": {
         "fullpath": "mame/polyplay.zip",
