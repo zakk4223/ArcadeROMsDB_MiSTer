@@ -1794,6 +1794,11 @@
         "md5": "67ef25d8171207e786546ce5c7474fa4",
         "size": 2046042
     },
+    "mame/aliensec.zip": {
+        "fullpath": "mame/aliensec.zip",
+        "md5": "89ea997cdc55a01e9855d59529ae220b",
+        "size": 120045
+    },
     "mame/aliensyn.zip": {
         "fullpath": "mame/aliensyn.zip",
         "md5": "dfc93a94fd8b6a55d217201a90a3b55c",
@@ -3758,6 +3763,11 @@
         "fullpath": "mame/hanagumi.zip",
         "md5": "8eaf3945bab3856d502a909c023db305",
         "size": 34244422
+    },
+    "mame/hangon.zip": {
+        "fullpath": "mame/hangon.zip",
+        "md5": "564cbbee47fde554a8fd45b6e4b19fee",
+        "size": 622561
     },
     "mame/hangonjr.zip": {
         "fullpath": "mame/hangonjr.zip",
