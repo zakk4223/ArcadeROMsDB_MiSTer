@@ -4834,6 +4834,16 @@
         "md5": "328cc6d86726de650b4598e9a1a52b18",
         "size": 177859
     },
+    "mame/offroad.zip": {
+        "fullpath": "mame/offroad.zip",
+        "md5": "925018306b550559107491a8a3b1d12a",
+        "size": 844203
+    },
+    "mame/offroadt.zip": {
+        "fullpath": "mame/offroadt.zip",
+        "md5": "8cc807a6f120b781c98975a14b5dfc37",
+        "size": 583880
+    },
     "mame/olds.zip": {
         "fullpath": "mame/olds.zip",
         "md5": "67f019032372aa7659b6fb2b0d842822",
@@ -5029,6 +5039,11 @@
         "md5": "d33fdaef3fb8e635229d62749523d1e7",
         "size": 16423
     },
+    "mame/pigout.zip": {
+        "fullpath": "mame/pigout.zip",
+        "md5": "159b31ad1f0e6698bc5cd02eb00b615d",
+        "size": 592894
+    },
     "mame/pingpong.zip": {
         "fullpath": "mame/pingpong.zip",
         "md5": "33c9ebc312067274f94c0bcb7a548527",
@@ -5163,6 +5178,11 @@
         "fullpath": "mame/prikura.zip",
         "md5": "a2a087f16bf85d079ebff2b782d80bd4",
         "size": 6253034
+    },
+    "mame/primrage.zip": {
+        "fullpath": "mame/primrage.zip",
+        "md5": "a7c3040fe5e7bf49f639cf3f688ad26b",
+        "size": 29743358
     },
     "mame/prmrsocr.zip": {
         "fullpath": "mame/prmrsocr.zip",
