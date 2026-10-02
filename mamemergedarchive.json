@@ -3114,6 +3114,11 @@
         "md5": "31e4679db64d0ce6da96f38436baf7cb",
         "size": 23110
     },
+    "mame/drgnbstr.zip": {
+        "fullpath": "mame/drgnbstr.zip",
+        "md5": "69872262d0b16eb6381866ae3dfe2a14",
+        "size": 60346
+    },
     "mame/drgw3.zip": {
         "fullpath": "mame/drgw3.zip",
         "md5": "9923da7047e0d2d7b7c08aab6ac3ac95",
@@ -3243,6 +3248,11 @@
         "fullpath": "mame/esb.zip",
         "md5": "dc5508e52a8999b485aca9028028ea15",
         "size": 78595
+    },
+    "mame/esckids.zip": {
+        "fullpath": "mame/esckids.zip",
+        "md5": "79d5d82ee0ceb63723b5fcbd9af714f0",
+        "size": 1106375
     },
     "mame/espgal.zip": {
         "fullpath": "mame/espgal.zip",
@@ -5883,6 +5893,11 @@
         "fullpath": "mame/skyadvnt.zip",
         "md5": "7b1a3ee41eb60a9e37b3e492e8ba43f0",
         "size": 1211903
+    },
+    "mame/skykid.zip": {
+        "fullpath": "mame/skykid.zip",
+        "md5": "f8246b06395a75ad8f8948cc2cb9bc48",
+        "size": 100489
     },
     "mame/skykiddx.zip": {
         "fullpath": "mame/skykiddx.zip",
