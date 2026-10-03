@@ -2279,6 +2279,11 @@
         "md5": "f81298afd68a1a24a49a1a2d9f087964",
         "size": 7950
     },
+    "mame/buckrog.zip": {
+        "fullpath": "mame/buckrog.zip",
+        "md5": "dceb48c483f667b02fb9c2b892698e9d",
+        "size": 228040
+    },
     "mame/bullet.zip": {
         "fullpath": "mame/bullet.zip",
         "md5": "17d08acb2758efa2b1634703c13c9398",
@@ -6653,6 +6658,11 @@
         "fullpath": "mame/tumblep.zip",
         "md5": "de732eba550f648aae32e6a7bf24ce86",
         "size": 4674991
+    },
+    "mame/turbo.zip": {
+        "fullpath": "mame/turbo.zip",
+        "md5": "ac7344ce4bdbff4e7d77f6bffbd319eb",
+        "size": 170268
     },
     "mame/turbotag.zip": {
         "fullpath": "mame/turbotag.zip",
