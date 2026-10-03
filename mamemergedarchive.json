@@ -1919,6 +1919,11 @@
         "md5": "9020f55514e65ad8ba594f688d3e6b55",
         "size": 13396080
     },
+    "mame/ataxx.zip": {
+        "fullpath": "mame/ataxx.zip",
+        "md5": "03b3a12f4ee2c3f3438c57b94f632cea",
+        "size": 1079878
+    },
     "mame/atetris.zip": {
         "fullpath": "mame/atetris.zip",
         "md5": "e4736fc757b3dc539b9e849fb4842fff",
@@ -2243,6 +2248,11 @@
         "fullpath": "mame/brubber.zip",
         "md5": "f99d5e161e565a6fc4c6cd92c84ebbcc",
         "size": 67703
+    },
+    "mame/brutforc.zip": {
+        "fullpath": "mame/brutforc.zip",
+        "md5": "b384af5e16986590a0e2a6456aff16ae",
+        "size": 2041743
     },
     "mame/btime.zip": {
         "fullpath": "mame/btime.zip",
@@ -3938,6 +3948,11 @@
         "fullpath": "mame/imsorry.zip",
         "md5": "b2fc1ec7d6f0d9cbb3e0ce00c3669ddd",
         "size": 103638
+    },
+    "mame/indyheat.zip": {
+        "fullpath": "mame/indyheat.zip",
+        "md5": "3580b818dae20db801b561cc740bfadc",
+        "size": 1576524
     },
     "mame/indytemp.zip": {
         "fullpath": "mame/indytemp.zip",
