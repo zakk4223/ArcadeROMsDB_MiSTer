@@ -2024,6 +2024,11 @@
         "md5": "1b26bb9479c416bc17827bb861a026c0",
         "size": 13986953
     },
+    "mame/batman.zip": {
+        "fullpath": "mame/batman.zip",
+        "md5": "b501a8fb42d126ef4dcabcf7fc3fbc18",
+        "size": 1619951
+    },
     "mame/batmanfr.zip": {
         "fullpath": "mame/batmanfr.zip",
         "md5": "947d220e7d847e02dc6e9f16729cd80f",
@@ -5908,6 +5913,11 @@
         "fullpath": "mame/sjryuko.zip",
         "md5": "3f3479d22a5fa6afa75cf28ab124c1d4",
         "size": 530611
+    },
+    "mame/skullxbo.zip": {
+        "fullpath": "mame/skullxbo.zip",
+        "md5": "f07b17f28933083b9d600d512e5a98a3",
+        "size": 1810975
     },
     "mame/skyadvnt.zip": {
         "fullpath": "mame/skyadvnt.zip",
