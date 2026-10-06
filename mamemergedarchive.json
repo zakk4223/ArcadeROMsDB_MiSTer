@@ -2869,6 +2869,11 @@
         "md5": "b5705d6519fcf7289025e3d8a719dd78",
         "size": 3750066
     },
+    "mame/darkmist.zip": {
+        "fullpath": "mame/darkmist.zip",
+        "md5": "f013787b0270f86c90233a58fe339482",
+        "size": 347211
+    },
     "mame/darkplnt.zip": {
         "fullpath": "mame/darkplnt.zip",
         "md5": "1aeb87dc8bb0d8879c950548d1f76f52",
@@ -6363,6 +6368,11 @@
         "fullpath": "mame/szaxxon.zip",
         "md5": "9abe5c25831ce71e4d619ccd918bc1be",
         "size": 39297
+    },
+    "mame/t5182.zip": {
+        "fullpath": "mame/t5182.zip",
+        "md5": "e78d8d7be86b9648e7d36126652d09a4",
+        "size": 2681
     },
     "mame/tacscan.zip": {
         "fullpath": "mame/tacscan.zip",
