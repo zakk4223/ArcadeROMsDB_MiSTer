@@ -9,6 +9,7 @@ from zipfile import ZIP_DEFLATED, ZipFile
 import time
 import shlex
 import difflib
+from urllib.parse import unquote
 
 _print = print
 def print(text=""):
@@ -109,14 +110,14 @@ def main():
                     "version": mameversion,
                     "size": hash_description['size'],
                     "hbmame": is_hbmame,
-                    "url": sources['hbmame' if is_hbmame else 'mame'][mameversion] + (hash_description['fullpath'] if 'fullpath' in hash_description else zip_name),
+                    "url": unquote(sources['hbmame' if is_hbmame else 'mame'][mameversion]) + (hash_description['fullpath'] if 'fullpath' in hash_description else zip_name),
 
                 }
             else:
                 files[games_path] = {
                     "hash": hash_description['md5'],
                     "size": hash_description['size'],
-                    "url": sources['hbmame' if is_hbmame else 'mame'][mameversion] + (hash_description['fullpath'] if 'fullpath' in hash_description else zip_name),
+                    "url": unquote(sources['hbmame' if is_hbmame else 'mame'][mameversion]) + (hash_description['fullpath'] if 'fullpath' in hash_description else zip_name),
                     "tags": tags
                 }
             
