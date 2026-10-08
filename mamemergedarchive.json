@@ -4894,6 +4894,11 @@
         "md5": "8cc807a6f120b781c98975a14b5dfc37",
         "size": 583880
     },
+    "mame/offtwall.zip": {
+        "fullpath": "mame/offtwall.zip",
+        "md5": "321bbdab5db30cacb2fb274cdbee4f55",
+        "size": 852932
+    },
     "mame/olds.zip": {
         "fullpath": "mame/olds.zip",
         "md5": "67f019032372aa7659b6fb2b0d842822",
@@ -5469,6 +5474,11 @@
         "md5": "43dbe59754c11eec3fe5563e47f6c42f",
         "size": 139770
     },
+    "mame/relief.zip": {
+        "fullpath": "mame/relief.zip",
+        "md5": "0505b5e08495a53430b00aafb8cd06ef",
+        "size": 2493275
+    },
     "mame/renegade.zip": {
         "fullpath": "mame/renegade.zip",
         "md5": "91f375fcc42208eb4ef923197bdbc8d7",
@@ -5908,6 +5918,11 @@
         "fullpath": "mame/shuttlei.zip",
         "md5": "1f68bcb32b94fd20243b25a04ab779d8",
         "size": 4813
+    },
+    "mame/shuuz.zip": {
+        "fullpath": "mame/shuuz.zip",
+        "md5": "781f1320a9b5cd4038a353558e9e1ae8",
+        "size": 916885
     },
     "mame/sidearms.zip": {
         "fullpath": "mame/sidearms.zip",
