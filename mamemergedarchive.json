@@ -6404,6 +6404,11 @@
         "md5": "6519780a2869cabb544fc4acbe9d16ec",
         "size": 24730
     },
+    "mame/tank.zip": {
+        "fullpath": "mame/tank.zip",
+        "md5": "9e846700f36c11697336adc4c215de9e",
+        "size": 1175
+    },
     "mame/tankbatt.zip": {
         "fullpath": "mame/tankbatt.zip",
         "md5": "8ff8e0fd2607cd518c5b0a7b28e7406c",
@@ -6413,6 +6418,11 @@
         "fullpath": "mame/tankfrce.zip",
         "md5": "428d2ef4b9eaaabe0e439a4a275b131f",
         "size": 2301279
+    },
+    "mame/tankii.zip": {
+        "fullpath": "mame/tankii.zip",
+        "md5": "111ac449850e76feb337d3634c353318",
+        "size": 1175
     },
     "mame/tapper.zip": {
         "fullpath": "mame/tapper.zip",
