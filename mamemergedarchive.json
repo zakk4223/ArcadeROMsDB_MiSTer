@@ -2244,6 +2244,11 @@
         "md5": "0add0cbdf05961ba83d1598b9c481fb4",
         "size": 623176
     },
+    "mame/bounty.zip": {
+        "fullpath": "mame/bounty.zip",
+        "md5": "cccf747d1b51bd91aafca6eb16515b0e",
+        "size": 28788
+    },
     "mame/boxyboy.zip": {
         "fullpath": "mame/boxyboy.zip",
         "md5": "10898df8935a8a737706ef41f4a461db",
@@ -3083,6 +3088,11 @@
         "fullpath": "mame/dockman.zip",
         "md5": "e344c7c94f50e7b45b5fed38f1d5c41b",
         "size": 80791
+    },
+    "mame/dogfight.zip": {
+        "fullpath": "mame/dogfight.zip",
+        "md5": "f7430b84d431e1652a7f76561d3f57d6",
+        "size": 45904
     },
     "mame/dokaben.zip": {
         "fullpath": "mame/dokaben.zip",
@@ -4599,6 +4609,11 @@
         "md5": "84f2afc6e10af98511679b63ea59c76a",
         "size": 685860
     },
+    "mame/moguchan.zip": {
+        "fullpath": "mame/moguchan.zip",
+        "md5": "c6def5047f542455a61147117da1a38a",
+        "size": 17716
+    },
     "mame/mooncrst.zip": {
         "fullpath": "mame/mooncrst.zip",
         "md5": "224df3b910f94e389c1fb602dc0b3c9e",
@@ -5063,6 +5078,11 @@
         "fullpath": "mame/pepper2.zip",
         "md5": "35d9b9647a960a35c8218e05eda55421",
         "size": 37709
+    },
+    "mame/percuss.zip": {
+        "fullpath": "mame/percuss.zip",
+        "md5": "b608bf0dbf7842eb841f6bac23dc9011",
+        "size": 22070
     },
     "mame/perfrman.zip": {
         "fullpath": "mame/perfrman.zip",
@@ -7138,6 +7158,11 @@
         "fullpath": "mame/znpwfv.zip",
         "md5": "fbf5fbb5ffc2c33eb0b6d053b7999c5b",
         "size": 15059837
+    },
+    "mame/zodiack.zip": {
+        "fullpath": "mame/zodiack.zip",
+        "md5": "f065d9960b0bbf239a496a2ae457e97c",
+        "size": 20864
     },
     "mame/zookeep.zip": {
         "fullpath": "mame/zookeep.zip",
