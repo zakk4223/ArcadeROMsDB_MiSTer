@@ -1704,6 +1704,11 @@
         "md5": "d9314a1974cc66c0d9e1d15da8f2edf5",
         "size": 1082534
     },
+    "mame/88games.zip": {
+        "fullpath": "mame/88games.zip",
+        "md5": "5bd47d79644ed446eb8e4f690f790f20",
+        "size": 871518
+    },
     "mame/abcop.zip": {
         "fullpath": "mame/abcop.zip",
         "md5": "ec098294f4054103caf7090a4e308c1f",
@@ -5593,6 +5598,11 @@
         "fullpath": "mame/roishtar.zip",
         "md5": "a41827894f2b87ea1b4a52355d230f67",
         "size": 114339
+    },
+    "mame/rollerg.zip": {
+        "fullpath": "mame/rollerg.zip",
+        "md5": "2ba6c181e29806060537321338e2b2d0",
+        "size": 1718294
     },
     "mame/rompers.zip": {
         "fullpath": "mame/rompers.zip",
