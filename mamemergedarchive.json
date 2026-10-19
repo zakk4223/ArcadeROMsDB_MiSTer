@@ -4329,6 +4329,11 @@
         "md5": "ea85b0a72da8ff60706c1e3ffe4353a1",
         "size": 85203
     },
+    "mame/ldv1000.zip": {
+        "fullpath": "mame/ldv1000.zip",
+        "md5": "d8af59208d04f60e644f19d1fa627955",
+        "size": 4816
+    },
     "mame/legend.zip": {
         "fullpath": "mame/legend.zip",
         "md5": "f71677983ea423a8626385c8984c4f66",
@@ -6553,6 +6558,11 @@
         "fullpath": "mame/tgm2.zip",
         "md5": "dc1df85a28bb1bb94e74cbd1217c379f",
         "size": 21085670
+    },
+    "mame/thayers.zip": {
+        "fullpath": "mame/thayers.zip",
+        "md5": "a8771cecfdd3cdbe060f3edf707169ab",
+        "size": 27949
     },
     "mame/theend.zip": {
         "fullpath": "mame/theend.zip",
