@@ -1884,6 +1884,11 @@
         "md5": "c0831a37cb7876466311341ddfaa17eb",
         "size": 459825
     },
+    "mame/armora.zip": {
+        "fullpath": "mame/armora.zip",
+        "md5": "aecb9a731922d669af0e525675c094c1",
+        "size": 23446
+    },
     "mame/armorcar.zip": {
         "fullpath": "mame/armorcar.zip",
         "md5": "4938989858b3acf768c751292098bbb1",
@@ -2038,6 +2043,11 @@
         "fullpath": "mame/bankp.zip",
         "md5": "c9bc04042a050163fd741d12c960f6ab",
         "size": 88018
+    },
+    "mame/barrier.zip": {
+        "fullpath": "mame/barrier.zip",
+        "md5": "10123c7ca5ec4df31894e4c8d77e1e0b",
+        "size": 4143
     },
     "mame/batcir.zip": {
         "fullpath": "mame/batcir.zip",
@@ -5559,6 +5569,11 @@
         "md5": "bc132152288a2d94c173e50a9bf8957d",
         "size": 1236073
     },
+    "mame/ripoff.zip": {
+        "fullpath": "mame/ripoff.zip",
+        "md5": "a5d063b42a2f7089d55046a026fc913f",
+        "size": 8171
+    },
     "mame/riskchal.zip": {
         "fullpath": "mame/riskchal.zip",
         "md5": "80aab38dc86f68c976a03b9255b042e6",
@@ -6149,6 +6164,11 @@
         "md5": "1eaa8d339092a3b101d9eb83a98e8f3a",
         "size": 30970
     },
+    "mame/spacewar.zip": {
+        "fullpath": "mame/spacewar.zip",
+        "md5": "c5a529acde44526b94f03126b7607cc3",
+        "size": 10061
+    },
     "mame/spacezap.zip": {
         "fullpath": "mame/spacezap.zip",
         "md5": "0dbeef79d7f7774a64d0b82b4ac4f8a1",
@@ -6304,6 +6324,11 @@
         "md5": "d9674f02538b555ceb85ed826f613114",
         "size": 1795415
     },
+    "mame/starcas.zip": {
+        "fullpath": "mame/starcas.zip",
+        "md5": "04c115bc75e44bfd94e4144ff30f9ef4",
+        "size": 37435
+    },
     "mame/starforc.zip": {
         "fullpath": "mame/starforc.zip",
         "md5": "730c77de9abd5e819cb3f22b0c4eec07",
@@ -6318,6 +6343,11 @@
         "fullpath": "mame/stargrds.zip",
         "md5": "294f456b7c0a5d489a25ba0011935a8b",
         "size": 133468
+    },
+    "mame/starhawk.zip": {
+        "fullpath": "mame/starhawk.zip",
+        "md5": "25768745d9cf91737dcd5721131917bd",
+        "size": 4664
     },
     "mame/starjack.zip": {
         "fullpath": "mame/starjack.zip",
@@ -7024,6 +7054,11 @@
         "md5": "dcc8efe2ed8e3b33e9c8ecc0b79693da",
         "size": 33142
     },
+    "mame/warrior.zip": {
+        "fullpath": "mame/warrior.zip",
+        "md5": "96a1e26e7b60b2ebd129f0b6410a64d9",
+        "size": 7828
+    },
     "mame/warriorb.zip": {
         "fullpath": "mame/warriorb.zip",
         "md5": "3b93738d6440927674452e2a1706f885",
@@ -7098,6 +7133,11 @@
         "fullpath": "mame/woodpeck.zip",
         "md5": "4319ddaf0ed61183e3048a2d8fe90843",
         "size": 32116
+    },
+    "mame/wotw.zip": {
+        "fullpath": "mame/wotw.zip",
+        "md5": "754b1728cfa9d3dc018622668875a164",
+        "size": 11989
     },
     "mame/wow.zip": {
         "fullpath": "mame/wow.zip",
