@@ -1304,6 +1304,11 @@
         "md5": "b99ab23772e72100e992c4dae76cfb4b",
         "size": 96435
     },
+    "history/files/mame/pkunwar.zip.~3~": {
+        "fullpath": "history/files/mame/pkunwar.zip.~3~",
+        "md5": "1818054af8c0f932cff3145dea536c78",
+        "size": 75273
+    },
     "history/files/mame/pleiads.zip.~1~": {
         "fullpath": "history/files/mame/pleiads.zip.~1~",
         "md5": "f2255924b9b70cd02332d591851251a8",
@@ -4289,6 +4294,11 @@
         "md5": "01ce3a440344cb1df0c83d20d4d699c6",
         "size": 399634
     },
+    "mame/kickoff.zip": {
+        "fullpath": "mame/kickoff.zip",
+        "md5": "dd2fb0240e20e9ac852b7a3735f8fba8",
+        "size": 736296
+    },
     "mame/kidniki.zip": {
         "fullpath": "mame/kidniki.zip",
         "md5": "9c89f342bcb4757ea70072d470e92308",
@@ -5296,8 +5306,8 @@
     },
     "mame/pkunwar.zip": {
         "fullpath": "mame/pkunwar.zip",
-        "md5": "1818054af8c0f932cff3145dea536c78",
-        "size": 75273
+        "md5": "b99ab23772e72100e992c4dae76cfb4b",
+        "size": 96435
     },
     "mame/playball.zip": {
         "fullpath": "mame/playball.zip",
@@ -6953,6 +6963,11 @@
         "fullpath": "mame/truxton2.zip",
         "md5": "cefc751099ffd68a32572c4899b082bb",
         "size": 1385520
+    },
+    "mame/tshingen.zip": {
+        "fullpath": "mame/tshingen.zip",
+        "md5": "f59cf0fc04484c3965f0cbf55c72faf6",
+        "size": 1007775
     },
     "mame/tshoot.zip": {
         "fullpath": "mame/tshoot.zip",
