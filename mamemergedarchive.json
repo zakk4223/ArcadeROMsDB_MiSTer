@@ -4309,6 +4309,11 @@
         "md5": "9c89f342bcb4757ea70072d470e92308",
         "size": 719013
     },
+    "mame/kikcubic.zip": {
+        "fullpath": "mame/kikcubic.zip",
+        "md5": "d3d46cc1d08ddd8728ad287ab548159c",
+        "size": 595004
+    },
     "mame/kikikai.zip": {
         "fullpath": "mame/kikikai.zip",
         "md5": "9e2b762e9e70ca24408c3f396c640afe",
@@ -4658,6 +4663,11 @@
         "fullpath": "mame/megaman2.zip",
         "md5": "a0407d13ce13a249bbf27eeef8e981cb",
         "size": 17969108
+    },
+    "mame/megazone.zip": {
+        "fullpath": "mame/megazone.zip",
+        "md5": "f03410debb0792c3b24bb722353c3a30",
+        "size": 214180
     },
     "mame/megrescu.zip": {
         "fullpath": "mame/megrescu.zip",
